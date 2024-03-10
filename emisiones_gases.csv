@@ -1,0 +1,1001 @@
+﻿ID Registro,País,Año,CO2 (millones de toneladas),CH4 (millones de toneladas),N2O (millones de toneladas),Sector,Fuente de Energía,Uso de Suelo,Emisiones Totales (millones de toneladas),Cambio Anual (%)
+E0001,Estados Unidos,1997,8638.76,317.43,328.01,Industria,Carbón,Agrícola,10329.28,-0.54
+E0002,Rusia,2006,8117,127.22,244.73,Transporte,Gas Natural,Urbano,9570.28,-1.6
+E0003,Alemania,1998,1367.38,484.56,69.3,Agricultura,Carbón,Forestal,9568.76,-0.32
+E0004,Brasil,2021,7576.35,525.74,468,Industria,Carbón,Urbano,794.58,-0.71
+E0005,Rusia,1995,2223.95,702.25,477.88,Industria,Carbón,Forestal,9320.99,1.44
+E0006,Estados Unidos,2010,9776.15,969.97,428.45,Energía,Gas Natural,Urbano,6721.51,4.37
+E0007,Rusia,1996,615.68,435.51,422.09,Residencial,Renovables,Agrícola,4246.84,-3.92
+E0008,Rusia,1996,3586.17,406.63,50.24,Industria,Carbón,Agrícola,716.01,-4.01
+E0009,Alemania,2016,4343.61,370.56,496.72,Industria,Petróleo,Forestal,7486.64,3.53
+E0010,Brasil,1997,8259.61,827.1,200.79,Agricultura,Gas Natural,Urbano,3677.4,0.06
+E0011,India,1998,7685.61,157.16,82.4,Industria,Renovables,Forestal,5198.76,2.66
+E0012,Rusia,2017,3812.42,344.47,406.24,Agricultura,Renovables,Agrícola,7530.84,-2.85
+E0013,India,2004,5699.05,725.25,113.64,Residencial,Carbón,Forestal,10038.34,3.29
+E0014,China,1991,8372.39,16.68,263.56,Energía,Gas Natural,Agrícola,9097.26,4.24
+E0015,Rusia,1996,280.18,290.09,64.88,Energía,Carbón,Forestal,5011.51,1.35
+E0016,India,2007,8041.56,641.81,237.85,Residencial,Petróleo,Urbano,4326.84,-3.94
+E0017,China,2011,9474.27,186.77,279.51,Residencial,Renovables,Agrícola,2713.6,3.95
+E0018,Alemania,1999,417.44,303.41,223.52,Transporte,Renovables,Forestal,4159.45,2.92
+E0019,Brasil,2022,551.25,486.56,35.67,Industria,Gas Natural,Agrícola,1310.41,2.51
+E0020,Rusia,1996,3510.69,422.6,242.98,Industria,Renovables,Urbano,10685.05,-4.63
+E0021,Brasil,1992,968.92,106.92,235,Industria,Gas Natural,Agrícola,6355.7,2.99
+E0022,China,2003,4844.83,938.3,131.55,Agricultura,Carbón,Urbano,1493.08,-3.62
+E0023,Brasil,2002,7314.24,45.25,460.88,Transporte,Petróleo,Agrícola,3945.59,-2.78
+E0024,Brasil,2005,5712.3,749.99,209.48,Industria,Gas Natural,Urbano,6062.73,0.77
+E0025,Estados Unidos,2005,2044.68,72.35,432.19,Agricultura,Carbón,Agrícola,5908.45,-2.35
+E0026,China,1994,6582.63,467.83,55.72,Agricultura,Petróleo,Urbano,486.99,1.61
+E0027,Brasil,2014,6880.06,176.24,160.12,Energía,Renovables,Forestal,10464.17,1.08
+E0028,India,2015,9331.21,141.96,88.99,Agricultura,Petróleo,Forestal,3101.59,-3.92
+E0029,China,2002,1553.29,126.77,204.8,Residencial,Petróleo,Agrícola,276.41,1.56
+E0030,Estados Unidos,2015,6954.13,453.33,56.71,Agricultura,Petróleo,Urbano,933.24,4.24
+E0031,Rusia,1990,9123.13,515.97,221.08,Residencial,Renovables,Forestal,6424.12,-3.39
+E0032,Alemania,1997,5065.49,134.25,177.58,Residencial,Gas Natural,Agrícola,1601.86,0.97
+E0033,Brasil,1993,3681.82,979.42,112.43,Energía,Gas Natural,Forestal,554.8,-1.58
+E0034,India,2010,1790.42,258.51,321.45,Energía,Petróleo,Urbano,4237.93,-0.4
+E0035,Estados Unidos,2011,8681.19,459.38,475.5,Agricultura,Carbón,Agrícola,6888.1,-2.13
+E0036,China,1992,4003.04,217.05,104.35,Energía,Carbón,Urbano,1319.05,-1.46
+E0037,Alemania,2008,9256.34,494.43,356.18,Energía,Petróleo,Urbano,3515.27,-4.71
+E0038,Alemania,1990,8492.81,756.26,371.45,Industria,Petróleo,Urbano,4653.59,4.82
+E0039,Brasil,2018,3828.73,521.58,249.56,Agricultura,Carbón,Forestal,1838.12,1.25
+E0040,Estados Unidos,2012,5781.75,286.36,448.94,Agricultura,Petróleo,Agrícola,5616.21,0.01
+E0041,Estados Unidos,2022,369.02,249.15,483.23,Agricultura,Petróleo,Urbano,1028.83,-1.16
+E0042,India,2012,2705.89,759.18,181.76,Energía,Gas Natural,Forestal,607.05,0.39
+E0043,Rusia,1994,7131.7,119.12,325.87,Energía,Gas Natural,Urbano,5766.21,-1.2
+E0044,Rusia,1996,6811.32,370.6,331.44,Residencial,Petróleo,Forestal,2802.08,-1.4
+E0045,Rusia,1995,3598.36,152.33,202.41,Transporte,Petróleo,Agrícola,1139.57,-0.36
+E0046,Alemania,2011,8105.22,258.72,159.08,Transporte,Renovables,Agrícola,4720.65,-2.24
+E0047,Alemania,2002,2434.78,153.53,466.94,Transporte,Gas Natural,Agrícola,10075.03,-3.2
+E0048,China,2001,4666.58,886.89,395.2,Industria,Petróleo,Agrícola,7993.7,0.57
+E0049,Alemania,1993,4778.05,732.17,58.12,Energía,Renovables,Urbano,8990.21,3.43
+E0050,Alemania,1997,3474.09,561.37,60.82,Residencial,Renovables,Forestal,9603.86,-3.47
+E0051,Estados Unidos,2020,9551.19,225.2,461.35,Residencial,Renovables,Agrícola,10701.64,-4.67
+E0052,China,2015,6997.17,510.72,41.62,Transporte,Renovables,Urbano,8419.39,-2.53
+E0053,Estados Unidos,1997,5438.07,521.31,344.52,Industria,Gas Natural,Agrícola,6731.65,4.8
+E0054,India,2022,5154.1,590.81,114.15,Industria,Renovables,Agrícola,4083.14,3.29
+E0055,India,2018,1677.03,61.03,18.56,Transporte,Gas Natural,Agrícola,2079.91,0.96
+E0056,China,1994,3784.65,972.93,30.76,Transporte,Renovables,Forestal,7584.59,4.29
+E0057,China,2017,6760.46,465.97,187.39,Energía,Renovables,Forestal,10944.95,-0.55
+E0058,Alemania,2006,9253.25,926.61,39.72,Industria,Carbón,Forestal,5194.21,4.83
+E0059,India,2012,8182.99,10.8,298.72,Residencial,Gas Natural,Agrícola,7988.11,-2.04
+E0060,Brasil,1998,3073.86,248.31,323.98,Transporte,Carbón,Urbano,5496.51,-2.6
+E0061,Rusia,1991,4396.17,104.89,187.36,Energía,Carbón,Urbano,4808.07,1.38
+E0062,Alemania,2021,920.88,769.85,371.7,Residencial,Renovables,Urbano,4572.33,-1.22
+E0063,Rusia,2020,1111.51,320.8,245.53,Industria,Gas Natural,Agrícola,5600.41,1.26
+E0064,India,1996,4755.28,840.65,215.68,Transporte,Petróleo,Forestal,4099.16,-1.95
+E0065,Rusia,2019,5349.17,832.55,204.09,Transporte,Renovables,Urbano,8261.63,1.18
+E0066,Brasil,1992,2713.87,668.13,216.12,Energía,Gas Natural,Agrícola,9629.57,-2.24
+E0067,Brasil,1998,6463.55,666.12,483.98,Energía,Carbón,Agrícola,9723.45,-4.49
+E0068,Estados Unidos,1999,7063.47,700.46,341.02,Industria,Gas Natural,Urbano,2581.92,4.12
+E0069,China,2015,3061.25,674.09,158.29,Transporte,Renovables,Urbano,9865.41,3.83
+E0070,Rusia,1990,7608.4,387.52,367.2,Energía,Gas Natural,Agrícola,3822.91,4.71
+E0071,Brasil,2019,2135.49,683.14,165.8,Transporte,Carbón,Urbano,3471.45,2.17
+E0072,China,2004,5488.09,897.51,63.73,Industria,Gas Natural,Agrícola,8021.64,1.83
+E0073,China,2014,8062.38,333.24,238.2,Transporte,Gas Natural,Urbano,3421.19,0.59
+E0074,Estados Unidos,1995,5416.39,944.94,375.76,Residencial,Carbón,Forestal,677.33,-3.74
+E0075,China,2007,9088.83,14.57,189.45,Transporte,Renovables,Agrícola,4172.43,-3.11
+E0076,China,1990,679.16,349.73,434.72,Agricultura,Petróleo,Forestal,7963.98,-2.11
+E0077,Alemania,1992,5924.31,132.97,194.09,Agricultura,Carbón,Urbano,3663.85,3.9
+E0078,India,2006,5661.38,127.49,175.57,Industria,Carbón,Agrícola,6962.19,-3.27
+E0079,Estados Unidos,1997,6637.5,815.61,499.12,Industria,Renovables,Urbano,7295.3,4.23
+E0080,Estados Unidos,2006,8350.73,918.45,241.75,Industria,Renovables,Agrícola,8097.72,0.23
+E0081,Rusia,2014,7285.95,777.98,402.81,Residencial,Gas Natural,Urbano,9878.72,2.16
+E0082,China,2001,7923.8,976.64,402.69,Residencial,Carbón,Forestal,4814.95,-3.9
+E0083,Rusia,2018,2959.29,217.11,463.26,Transporte,Gas Natural,Forestal,1914.11,-2.31
+E0084,Alemania,2014,3936.22,141.66,43.36,Energía,Gas Natural,Urbano,3576.29,4.59
+E0085,Brasil,2014,6305.09,521.18,136.34,Agricultura,Renovables,Forestal,4810.62,-2.34
+E0086,China,2018,5579.27,829.21,384.11,Agricultura,Renovables,Forestal,7881.42,-2.03
+E0087,Brasil,2000,9614.93,40.8,281.74,Agricultura,Gas Natural,Urbano,243.03,-3.02
+E0088,India,1993,1949.66,995.57,280.25,Transporte,Carbón,Agrícola,3542.06,-3.71
+E0089,Alemania,2003,3577.66,602.64,83.94,Transporte,Carbón,Urbano,8600.28,-2.67
+E0090,China,2006,5770.28,978.96,141.3,Industria,Gas Natural,Agrícola,7412.35,1.42
+E0091,Rusia,1991,8692.84,365.72,261.15,Energía,Petróleo,Forestal,8075.97,-0.45
+E0092,Rusia,1997,9300.55,458.57,139.31,Industria,Petróleo,Forestal,8948.74,0.54
+E0093,China,1999,3426.76,752.61,105.93,Transporte,Renovables,Forestal,8637.27,-3.78
+E0094,Rusia,1996,764.37,792.91,44.79,Residencial,Carbón,Forestal,7535.8,3.02
+E0095,China,2005,4274.04,233.8,78.71,Industria,Gas Natural,Forestal,4892.31,2.84
+E0096,Estados Unidos,2003,4004.01,929.87,384.67,Transporte,Gas Natural,Agrícola,10821.22,-4.78
+E0097,Rusia,2005,9866.22,867.56,359.67,Transporte,Carbón,Agrícola,6302.9,-1.16
+E0098,China,2014,4367.51,19.19,23.87,Residencial,Renovables,Agrícola,2310.18,-4.31
+E0099,China,1993,3126.66,129.44,102.44,Residencial,Renovables,Urbano,3291.66,2.92
+E0100,Rusia,2018,3717.24,496.6,280.67,Residencial,Petróleo,Forestal,7659.83,2.37
+E0101,Estados Unidos,1995,4029.57,461.49,161.99,Energía,Carbón,Forestal,10179.66,4.02
+E0102,Rusia,1990,8233.25,708.68,411.8,Transporte,Carbón,Forestal,2048.05,-2.64
+E0103,China,1990,902.05,90.62,392.71,Residencial,Gas Natural,Urbano,997.58,-0.44
+E0104,Estados Unidos,1992,3233.42,645.21,445.9,Energía,Carbón,Urbano,9708.69,-3.16
+E0105,Brasil,1990,9666.55,616.75,281.9,Agricultura,Petróleo,Urbano,10076.53,-1.29
+E0106,India,1990,1615.71,234.39,176.69,Agricultura,Carbón,Forestal,3112.53,0.22
+E0107,Rusia,2010,7451.75,542.85,303.43,Agricultura,Gas Natural,Agrícola,4212.41,-4.47
+E0108,Alemania,2019,3628.3,222.98,45.48,Transporte,Petróleo,Urbano,7296.05,2.15
+E0109,China,2021,5859.68,147.78,5.78,Energía,Gas Natural,Urbano,3696.24,0.43
+E0110,Estados Unidos,2022,1085.53,573.56,9.53,Energía,Carbón,Agrícola,9661.03,3.29
+E0111,Estados Unidos,2011,3133.48,977.5,204.36,Agricultura,Renovables,Urbano,1272.61,-2.28
+E0112,Brasil,2019,5058.56,237.7,114.81,Industria,Carbón,Agrícola,514.01,4.03
+E0113,Rusia,1993,2393.84,355.98,79.51,Agricultura,Carbón,Forestal,2372.5,4.99
+E0114,Alemania,2012,5464.51,257.32,308.05,Transporte,Gas Natural,Agrícola,3218.36,4.19
+E0115,Estados Unidos,2014,2275.62,267.19,497.55,Agricultura,Renovables,Agrícola,1330.9,2.78
+E0116,Brasil,2001,6536,404.79,89.7,Agricultura,Carbón,Forestal,816.03,3.12
+E0117,China,2006,9053.11,702.15,273.66,Energía,Petróleo,Urbano,8336.12,0.74
+E0118,Brasil,2004,946.34,39.77,60.74,Agricultura,Petróleo,Forestal,1890.61,-3.1
+E0119,Rusia,1999,2244.5,957.17,467.18,Residencial,Gas Natural,Urbano,10061.75,1.77
+E0120,Brasil,2018,8459.79,47.23,146.59,Residencial,Gas Natural,Urbano,4111.2,2.13
+E0121,Estados Unidos,2001,6352.38,881.37,439.29,Industria,Renovables,Agrícola,7409.6,4.85
+E0122,Estados Unidos,1990,879.22,894.48,142.26,Transporte,Gas Natural,Forestal,2556.88,0.41
+E0123,India,1990,4914.87,524.96,403.22,Transporte,Renovables,Agrícola,2719.52,-2.29
+E0124,Brasil,1999,2176.61,137.86,105.48,Energía,Carbón,Forestal,6364.33,1.84
+E0125,China,2007,2071.05,565.58,147.1,Transporte,Petróleo,Forestal,6211.01,4.79
+E0126,Alemania,1991,9412.39,629,97.05,Industria,Petróleo,Agrícola,8479.15,-3.23
+E0127,Alemania,1997,7639.26,857.9,132.87,Residencial,Petróleo,Urbano,8360.17,-1.74
+E0128,Rusia,2011,6992.68,551.34,417.6,Energía,Gas Natural,Urbano,7410.5,0.42
+E0129,India,2011,2465.4,411.3,319.88,Residencial,Gas Natural,Forestal,4995.52,-3.3
+E0130,Brasil,2015,1273.88,838.45,203.53,Industria,Carbón,Urbano,9807.98,-4.78
+E0131,China,2015,8721.24,980.97,485.79,Energía,Gas Natural,Agrícola,6886.11,-1.63
+E0132,India,1998,158.21,645.46,232.97,Agricultura,Renovables,Agrícola,10893.16,3.65
+E0133,Estados Unidos,2010,3942.15,874.51,484.91,Transporte,Petróleo,Agrícola,9031.13,-4.57
+E0134,Rusia,2020,2848.36,599.14,99.1,Industria,Carbón,Forestal,582.98,-0.71
+E0135,Brasil,1995,5746.72,690.1,452.41,Energía,Renovables,Forestal,3594.47,2.62
+E0136,Alemania,2003,2580.03,688.48,7.9,Residencial,Renovables,Urbano,6333.45,4.53
+E0137,China,2022,3180.93,705.08,273.11,Energía,Gas Natural,Agrícola,7964.02,4.85
+E0138,Estados Unidos,1996,8515.39,321.69,212.1,Agricultura,Gas Natural,Agrícola,6098.67,-0.78
+E0139,India,2013,6071.57,576.09,263.02,Industria,Petróleo,Forestal,8668.82,4.5
+E0140,Rusia,1998,1542.26,594.54,277.17,Energía,Carbón,Forestal,3180.95,-4.65
+E0141,India,2000,7292.07,315.76,195.13,Industria,Renovables,Forestal,2104.64,2.46
+E0142,Alemania,2012,2153.85,350.5,499.1,Industria,Gas Natural,Agrícola,687.69,1.43
+E0143,India,1991,4386.75,762.48,488.28,Residencial,Gas Natural,Agrícola,6349.12,-2.5
+E0144,China,2004,6501.41,583.14,480.91,Transporte,Carbón,Urbano,7605.73,0.07
+E0145,Estados Unidos,2017,2792.1,150.06,489.56,Agricultura,Carbón,Agrícola,3655.03,-3.7
+E0146,Brasil,1993,3902.66,837.8,396.71,Energía,Gas Natural,Urbano,6788.07,3.72
+E0147,China,1999,7368.08,883.23,494.31,Transporte,Gas Natural,Urbano,668.51,-1.42
+E0148,Alemania,1995,9385.32,466.68,446.29,Residencial,Petróleo,Agrícola,1182.3,1.26
+E0149,Rusia,2019,5339.53,209.7,208.55,Transporte,Carbón,Urbano,7749.13,-3.41
+E0150,Alemania,1999,198.71,947.66,392.6,Industria,Renovables,Urbano,4111.96,-2.94
+E0151,Alemania,2021,3450.79,882.39,456.12,Industria,Gas Natural,Forestal,7417.54,4.92
+E0152,India,1992,4046.48,245.14,356.59,Agricultura,Gas Natural,Agrícola,9165.76,2.53
+E0153,Rusia,2015,3457.82,96.5,211.97,Energía,Gas Natural,Urbano,9393.58,4.62
+E0154,China,2004,4419.06,441.21,33.83,Energía,Gas Natural,Urbano,1976.63,-2.04
+E0155,Alemania,2006,6363.4,676.72,405.04,Residencial,Petróleo,Urbano,5400.51,-3.35
+E0156,China,2016,1299.17,176.21,476.42,Agricultura,Carbón,Agrícola,8099.8,0.03
+E0157,Brasil,2007,2799.04,513.7,181.87,Energía,Gas Natural,Forestal,8536.39,-0.05
+E0158,India,2008,5125.72,425.99,76.8,Industria,Carbón,Forestal,8652.97,-3.25
+E0159,China,2001,3224.18,890.66,163.93,Agricultura,Renovables,Agrícola,2587.02,2.33
+E0160,Rusia,2013,9911.74,430.14,291.73,Transporte,Renovables,Agrícola,2198.63,-1.38
+E0161,Alemania,1994,4371.17,534.24,159.15,Agricultura,Renovables,Agrícola,6531.14,-3.14
+E0162,Brasil,2013,8711.01,955.33,305.7,Agricultura,Renovables,Agrícola,8177.84,-1.68
+E0163,Rusia,2016,8975.45,300.39,483.46,Energía,Carbón,Forestal,3578.62,0.64
+E0164,India,2019,8376.47,289.7,335.7,Residencial,Renovables,Urbano,1241.29,2.26
+E0165,Brasil,2004,564.29,799.8,181.97,Residencial,Renovables,Urbano,7912.54,-0.18
+E0166,Brasil,2023,9482.69,278.26,467.94,Energía,Gas Natural,Agrícola,3366.71,0.26
+E0167,Brasil,2016,1374.55,832.03,283.25,Energía,Gas Natural,Agrícola,1913.35,-3.61
+E0168,Alemania,2009,440.6,96.44,65.06,Energía,Gas Natural,Urbano,1710.19,4.15
+E0169,Estados Unidos,2021,4202.26,112.15,249.99,Residencial,Petróleo,Forestal,3532.51,4.29
+E0170,Brasil,1993,2026.88,901.42,327.16,Energía,Gas Natural,Agrícola,6560.19,1.83
+E0171,Rusia,1994,1923.55,541.27,419.29,Transporte,Renovables,Agrícola,4006.58,-4.82
+E0172,Rusia,1997,2949.41,719.1,468.3,Transporte,Carbón,Forestal,325.21,0.37
+E0173,India,2011,2559.22,226.06,159.39,Industria,Renovables,Forestal,1156.3,1.29
+E0174,China,1996,6879.47,167.11,78.6,Transporte,Carbón,Forestal,3266.49,4.95
+E0175,China,2011,1949.1,835.12,37.84,Agricultura,Renovables,Agrícola,7290.78,4.96
+E0176,Estados Unidos,2019,5476.87,359.26,369.44,Industria,Petróleo,Forestal,1173.81,3.58
+E0177,Alemania,2005,9865.62,455.58,397.78,Transporte,Gas Natural,Agrícola,6211.16,-4.36
+E0178,Alemania,2004,4380.59,28.94,205.28,Agricultura,Renovables,Agrícola,1406.76,4.53
+E0179,Brasil,1994,6454.54,386.49,198.57,Transporte,Gas Natural,Forestal,2406.61,1.13
+E0180,Estados Unidos,1992,9696.78,770.67,477.16,Agricultura,Petróleo,Urbano,1976.85,3.01
+E0181,India,2012,1462.63,821.45,458.42,Energía,Petróleo,Forestal,832.79,-0.93
+E0182,India,1999,4244.21,699.06,117.4,Agricultura,Gas Natural,Urbano,7417.5,-1.8
+E0183,China,1994,8516.9,692.49,390.62,Energía,Gas Natural,Forestal,5151.1,-0.37
+E0184,India,2012,9329.83,506.73,311.73,Agricultura,Carbón,Forestal,9158.48,-3.53
+E0185,Brasil,2004,6052.24,538.79,77.96,Agricultura,Gas Natural,Agrícola,1177.91,-1.43
+E0186,Rusia,2007,1519.86,742.89,179.03,Transporte,Gas Natural,Agrícola,1677.59,3.58
+E0187,India,2014,9024.57,248.05,89.56,Agricultura,Carbón,Agrícola,3440.39,-4.62
+E0188,Estados Unidos,1997,1827.02,232.29,148.28,Transporte,Renovables,Agrícola,8447.94,-3.49
+E0189,Brasil,2020,3593.49,949.97,308.04,Agricultura,Carbón,Agrícola,3432.77,-3.75
+E0190,India,2010,3817.53,28.66,188.26,Residencial,Renovables,Agrícola,4551.76,-0.97
+E0191,Alemania,1991,4528.19,140.33,197.64,Industria,Renovables,Agrícola,3387.48,4.97
+E0192,India,2011,7922.64,570.76,270.28,Transporte,Renovables,Urbano,974.44,-3.27
+E0193,Alemania,1997,8041.23,738.1,44.52,Transporte,Carbón,Urbano,10339.83,-3.55
+E0194,Brasil,2012,7224.59,538.35,369.66,Energía,Carbón,Agrícola,6079.08,4.15
+E0195,India,2021,319.07,355.71,201.45,Residencial,Petróleo,Urbano,8687.38,3.82
+E0196,Alemania,1997,5691.97,978,240.72,Energía,Renovables,Forestal,7276.09,-4.68
+E0197,Rusia,1993,7500.18,704.15,487.18,Residencial,Carbón,Urbano,5705.37,2.52
+E0198,China,2019,4501.79,831.56,172.84,Residencial,Petróleo,Agrícola,1077.49,1.55
+E0199,Brasil,2008,9454.87,41.21,324.46,Agricultura,Renovables,Urbano,7105.8,2.68
+E0200,Alemania,2012,8255.72,236.68,196.86,Energía,Carbón,Forestal,1793.54,-0.05
+E0201,Estados Unidos,2007,6417.74,374.8,447.25,Industria,Carbón,Urbano,4616.78,4.91
+E0202,India,2018,718.01,183.42,423.53,Residencial,Carbón,Agrícola,6957.33,-4.56
+E0203,Alemania,2012,6558.23,73.83,121.57,Residencial,Gas Natural,Forestal,8626.3,-2.66
+E0204,Alemania,2022,9124.64,225.87,346.18,Transporte,Petróleo,Forestal,7566.99,-1.03
+E0205,Alemania,2007,3856.51,534.1,33.52,Agricultura,Carbón,Urbano,7419.72,-0.5
+E0206,China,2022,8397.51,696.05,481.63,Industria,Gas Natural,Forestal,1724.56,4.21
+E0207,Estados Unidos,1996,3200.3,774.25,175.15,Residencial,Petróleo,Forestal,3872.8,0.6
+E0208,Estados Unidos,2017,5744.02,43.89,416.09,Transporte,Petróleo,Forestal,567.74,-4.55
+E0209,Rusia,1990,6519.4,428.56,159.9,Energía,Gas Natural,Agrícola,7942.3,-0.92
+E0210,China,2023,6812.15,123.09,316.75,Residencial,Petróleo,Forestal,10483.19,-0.84
+E0211,Alemania,2008,8837.24,431.77,491.81,Transporte,Gas Natural,Urbano,2978.8,4.65
+E0212,Brasil,2020,2422.76,434.54,438.5,Energía,Renovables,Urbano,1055.89,0.99
+E0213,China,2002,2697.46,498.71,81.02,Agricultura,Carbón,Forestal,5283.71,1.36
+E0214,China,2013,7070.01,892.94,274.2,Energía,Gas Natural,Urbano,9438.01,2.13
+E0215,Estados Unidos,1994,1854.22,805.29,174.92,Residencial,Petróleo,Forestal,6116.52,2.7
+E0216,Rusia,2012,4696.28,637.08,217.74,Industria,Petróleo,Urbano,609.87,1.35
+E0217,Rusia,2008,298.34,885.52,168.26,Energía,Renovables,Forestal,10719.57,-2.63
+E0218,China,1990,1495.7,678.79,168.64,Industria,Renovables,Forestal,9132.28,3.74
+E0219,China,2022,6820.58,819.04,271.73,Industria,Renovables,Forestal,1534.38,2.32
+E0220,India,2022,7499.87,564.21,96.79,Energía,Renovables,Agrícola,10147.6,2.42
+E0221,Alemania,2021,1241.66,525.69,269.16,Agricultura,Renovables,Urbano,5012.5,4.97
+E0222,Estados Unidos,2017,2354.32,724.37,140.2,Energía,Carbón,Forestal,4153.69,3.03
+E0223,Alemania,2001,1079.15,20.67,145.2,Transporte,Gas Natural,Agrícola,5125.48,3.29
+E0224,Brasil,1998,4390.79,690.69,369.64,Industria,Renovables,Agrícola,9196.83,4.51
+E0225,Brasil,2000,1348.55,934.58,15.77,Residencial,Renovables,Forestal,7288.33,-3.49
+E0226,Rusia,2022,4429.23,714.23,191.09,Industria,Carbón,Forestal,745.81,-0.02
+E0227,Estados Unidos,2008,7347.77,37.76,204.36,Residencial,Gas Natural,Forestal,10537.89,0.81
+E0228,Alemania,2023,6865.55,378.51,243.07,Transporte,Renovables,Forestal,1710.85,-1.71
+E0229,Rusia,1996,2876.56,809.77,334.84,Transporte,Gas Natural,Forestal,8226.69,3.39
+E0230,Brasil,2020,6770.25,958.65,185.47,Transporte,Gas Natural,Urbano,7033.89,2.62
+E0231,China,1991,9284.35,370.79,107.36,Energía,Carbón,Forestal,2144.06,2.21
+E0232,Estados Unidos,2008,3540.49,841.35,442.55,Industria,Carbón,Forestal,1960.98,4.97
+E0233,Estados Unidos,2021,3358.28,863.95,490.54,Residencial,Renovables,Urbano,9586.57,-2.41
+E0234,Alemania,1999,5757.24,124.16,10.99,Transporte,Petróleo,Agrícola,4674.67,2.35
+E0235,India,1997,2530.47,845.94,273.69,Transporte,Carbón,Urbano,7234.88,0.51
+E0236,Alemania,2015,6550.63,324.93,171.51,Residencial,Gas Natural,Agrícola,5594.37,-1.87
+E0237,China,2019,8339.39,593.64,139.22,Industria,Gas Natural,Agrícola,8028.15,-3.39
+E0238,China,2000,4647.25,539.42,168.52,Industria,Renovables,Urbano,5323.74,3.96
+E0239,Rusia,2009,6827.12,663.39,319.8,Residencial,Renovables,Forestal,3232.44,0.95
+E0240,Estados Unidos,2009,6553.67,740.72,96.17,Agricultura,Renovables,Agrícola,4060.88,3.25
+E0241,Rusia,1998,482.79,441.44,456.52,Industria,Gas Natural,Forestal,9463.95,0.45
+E0242,China,1997,1915.82,888.42,233.59,Residencial,Carbón,Urbano,5201.58,-2.8
+E0243,India,2004,8945.95,809.69,163.46,Residencial,Petróleo,Agrícola,2426.6,-1.62
+E0244,Estados Unidos,2023,9395.03,785.64,383,Transporte,Carbón,Forestal,10287.2,-1.18
+E0245,China,2013,7826.35,458.79,9.16,Residencial,Petróleo,Agrícola,8782.94,4.73
+E0246,India,2022,9220.36,38.54,216.49,Energía,Carbón,Agrícola,706.76,-4.94
+E0247,Alemania,2016,3130.87,492.76,178.3,Transporte,Renovables,Urbano,10988.48,4.86
+E0248,Brasil,2010,2552.34,898.55,169.77,Transporte,Gas Natural,Forestal,7674.7,4.8
+E0249,China,1994,3904.57,191.26,169.2,Industria,Petróleo,Forestal,1846.91,4.96
+E0250,Brasil,2010,647.89,982.61,16.6,Agricultura,Carbón,Agrícola,2685.13,-0.23
+E0251,Rusia,1993,8117.73,807.88,76.91,Industria,Gas Natural,Forestal,7647.66,4.64
+E0252,Brasil,2005,9843.34,710.12,71.8,Energía,Petróleo,Agrícola,8599.4,-1.04
+E0253,China,2020,8257.89,677.48,494.32,Transporte,Petróleo,Urbano,2705.49,-4.74
+E0254,Brasil,2015,5594.26,587.44,12.06,Transporte,Gas Natural,Urbano,2900.96,-2.76
+E0255,Estados Unidos,1995,3023.29,720.95,84.37,Residencial,Renovables,Forestal,3447.62,4.45
+E0256,China,2022,2057.21,422.48,487.11,Agricultura,Gas Natural,Urbano,6618.4,-4.86
+E0257,India,2010,3704.22,845.44,314.5,Agricultura,Renovables,Urbano,1972.8,0.46
+E0258,Brasil,2005,6703,696.65,225.88,Residencial,Carbón,Forestal,1236.25,-4.24
+E0259,Estados Unidos,2023,4525.91,771.48,40.3,Energía,Carbón,Agrícola,7499.62,-2.14
+E0260,Rusia,2004,9347.19,792.69,335.16,Agricultura,Gas Natural,Urbano,8592.17,-4.12
+E0261,Rusia,1995,8556.78,92.98,69.76,Transporte,Renovables,Forestal,5560.13,3.6
+E0262,Brasil,1991,1113.77,56.59,335.92,Energía,Carbón,Forestal,4065.78,0.91
+E0263,Rusia,2013,1402.1,801.18,489.61,Industria,Renovables,Forestal,4809.27,4.02
+E0264,India,2017,6794.77,260.12,266.45,Industria,Renovables,Urbano,4333.65,1.88
+E0265,China,1990,2384.61,582.39,107.83,Energía,Renovables,Urbano,10563.84,4.71
+E0266,Estados Unidos,1990,7931.2,444.27,313.02,Transporte,Gas Natural,Agrícola,8472.18,0.1
+E0267,Alemania,2017,5954.45,23.02,256.95,Industria,Renovables,Agrícola,2368.15,1.39
+E0268,Brasil,2009,2375.32,41.24,267.04,Transporte,Gas Natural,Agrícola,4287.66,0.76
+E0269,Rusia,1997,4839,827.3,239.58,Residencial,Carbón,Agrícola,6029.73,-0.16
+E0270,China,1990,4120.16,608.07,337.2,Agricultura,Carbón,Agrícola,6781.55,3.46
+E0271,Alemania,2015,8744.28,524.32,286.4,Energía,Petróleo,Agrícola,5203.2,1.45
+E0272,India,2014,418.41,944.41,493.51,Agricultura,Petróleo,Forestal,8930.38,3.01
+E0273,Rusia,1999,8968.85,173.94,413.11,Residencial,Carbón,Agrícola,8466.91,2.86
+E0274,Rusia,2001,6555.62,258.71,133.08,Industria,Renovables,Urbano,5606.22,-3.09
+E0275,Estados Unidos,1996,7401.63,756.98,363.15,Transporte,Renovables,Agrícola,9413.28,1.5
+E0276,India,2001,125.81,775.46,107.94,Transporte,Carbón,Urbano,8286.88,-3
+E0277,India,2006,6319.57,405.49,391.39,Residencial,Carbón,Agrícola,8586.54,0.83
+E0278,Brasil,1994,5926.01,951.03,74.63,Energía,Petróleo,Forestal,10524.77,1.77
+E0279,Alemania,2003,5418.34,938.32,237.3,Agricultura,Renovables,Forestal,3004.49,4.97
+E0280,Estados Unidos,2023,7880.08,13.4,395.51,Industria,Carbón,Urbano,3017.36,-4.69
+E0281,Brasil,2006,5603.12,173.16,140.78,Energía,Petróleo,Agrícola,9789.58,-4.09
+E0282,Estados Unidos,1990,8585.26,820.4,418.72,Residencial,Petróleo,Forestal,8517.27,-4.23
+E0283,India,2004,2403.05,335.88,322.43,Residencial,Renovables,Forestal,10199.35,-1.02
+E0284,Estados Unidos,2008,8079.23,96.37,199.36,Transporte,Petróleo,Agrícola,788.12,3.22
+E0285,Estados Unidos,1994,1875.2,785.21,212.28,Industria,Petróleo,Urbano,6942.55,3.44
+E0286,Estados Unidos,2008,8149.87,455.13,463.07,Energía,Gas Natural,Urbano,1676.45,2.37
+E0287,China,1994,9410.59,492.92,109.68,Transporte,Carbón,Urbano,5592.48,3.97
+E0288,China,2001,3423.37,187.18,346.99,Industria,Renovables,Forestal,1797.64,-1.77
+E0289,Alemania,2008,5345.87,661.23,353.94,Agricultura,Carbón,Agrícola,1496.06,-4.12
+E0290,Alemania,2001,6617.46,551.69,461.3,Agricultura,Gas Natural,Forestal,232.63,-4.42
+E0291,India,2001,886.77,207.47,356.87,Transporte,Renovables,Forestal,6969.6,3.52
+E0292,Estados Unidos,2007,4991.4,340.99,292.65,Energía,Carbón,Forestal,4013.35,2.3
+E0293,India,2023,3669.79,597.28,451.36,Industria,Petróleo,Forestal,1246.55,1.99
+E0294,China,2022,8737.31,924.95,414.74,Agricultura,Renovables,Agrícola,3618.93,-1.6
+E0295,Estados Unidos,2007,8779.13,920.46,358.67,Agricultura,Gas Natural,Forestal,1941.49,-1.2
+E0296,Brasil,2018,7037.72,288.62,17.26,Energía,Petróleo,Forestal,10364.47,4.58
+E0297,China,1994,6591.67,735.89,187.39,Transporte,Gas Natural,Urbano,3588.05,-4.36
+E0298,China,2014,7363.52,775.74,316.31,Residencial,Petróleo,Forestal,3740.09,2.74
+E0299,China,2013,3723.27,809.01,261.6,Industria,Carbón,Agrícola,9254.45,-1.9
+E0300,Estados Unidos,2018,4104.74,571.19,160.34,Agricultura,Carbón,Forestal,7160.54,-4.61
+E0301,Alemania,2022,5581.68,11.5,73.07,Residencial,Carbón,Agrícola,7840.87,2.43
+E0302,Rusia,1999,9386.48,761.91,276.95,Energía,Gas Natural,Agrícola,7032.42,-1.69
+E0303,Brasil,2022,7267.6,107.49,143.67,Transporte,Renovables,Agrícola,10413.54,2.22
+E0304,Brasil,2012,5554.79,117.75,117.27,Industria,Carbón,Urbano,2356.31,2.08
+E0305,India,2000,7727.09,606.02,200.08,Energía,Gas Natural,Urbano,10880.53,0.35
+E0306,Estados Unidos,2013,3771.81,983.54,392.96,Transporte,Petróleo,Forestal,9157.42,2.77
+E0307,Alemania,2013,7331.62,243.3,244.44,Energía,Carbón,Forestal,6519.8,0.81
+E0308,China,1996,4165.69,646.17,109.03,Agricultura,Petróleo,Forestal,7319.85,-2.13
+E0309,Rusia,2010,2868.65,304.35,59.33,Agricultura,Carbón,Agrícola,7172.2,2.34
+E0310,Estados Unidos,2009,6136.27,898.83,249.99,Residencial,Petróleo,Agrícola,736.52,0.89
+E0311,Estados Unidos,1999,6900.09,593.92,397.39,Energía,Gas Natural,Agrícola,2476.38,-4.87
+E0312,Alemania,2014,4647.01,208.27,326.76,Agricultura,Carbón,Forestal,10580.03,4.02
+E0313,Rusia,2004,5698.46,262.87,116.84,Transporte,Gas Natural,Forestal,5924.57,0.46
+E0314,China,1995,6971.25,433.05,218.92,Residencial,Gas Natural,Forestal,4224.05,3.69
+E0315,Estados Unidos,1991,7700.33,122.92,427.76,Industria,Petróleo,Forestal,8406.22,3.83
+E0316,Brasil,2001,8966.16,79.65,89.65,Energía,Carbón,Urbano,5817.26,-0.55
+E0317,Brasil,1993,3609.99,680.38,266.51,Agricultura,Renovables,Urbano,243.47,0.08
+E0318,Rusia,2012,9519.62,407.76,178.76,Transporte,Renovables,Urbano,8124.99,-0.84
+E0319,China,2002,6409.07,726.5,62.97,Energía,Gas Natural,Forestal,8081.17,-0.51
+E0320,Rusia,2006,7898.25,110.95,25.9,Transporte,Petróleo,Urbano,1900.12,3.95
+E0321,Estados Unidos,2020,7027.71,610.26,278.38,Residencial,Petróleo,Urbano,10527.59,2.88
+E0322,Brasil,2005,2135.16,443.86,11.35,Agricultura,Petróleo,Forestal,2540.6,-3.73
+E0323,India,2015,807.24,58.94,52.62,Agricultura,Carbón,Urbano,5089.47,1.1
+E0324,Rusia,2017,7290.24,545.26,174.43,Residencial,Carbón,Forestal,1350.62,4.96
+E0325,India,1990,5159.42,83.72,22.72,Transporte,Petróleo,Forestal,6675.78,0.96
+E0326,India,2001,7051.91,827.89,200.82,Energía,Renovables,Forestal,4192.42,2.86
+E0327,Alemania,2009,4820.74,632.33,66.05,Transporte,Renovables,Agrícola,3949.59,2.69
+E0328,Brasil,1991,3191.12,557.41,175.59,Energía,Carbón,Forestal,9114.05,-1.5
+E0329,Rusia,2004,2921.68,134.34,395.79,Residencial,Petróleo,Urbano,204.22,-1.28
+E0330,India,2011,7332.27,288.17,313.56,Industria,Renovables,Urbano,8797.62,2.24
+E0331,Estados Unidos,2021,2840.12,493.38,223.26,Energía,Renovables,Forestal,6328.79,0
+E0332,Alemania,2009,7175.3,633.65,46.82,Agricultura,Carbón,Agrícola,10848.47,0.71
+E0333,China,2022,3901.21,184.05,309.96,Agricultura,Carbón,Agrícola,6524.93,2.13
+E0334,Alemania,2004,7731.89,9.86,82.69,Agricultura,Renovables,Agrícola,703.63,2.78
+E0335,China,1992,1513.82,345.42,39.22,Transporte,Petróleo,Urbano,652.03,-2.28
+E0336,Brasil,2018,2129.3,483.39,332.33,Transporte,Renovables,Agrícola,9726.37,-3.53
+E0337,Rusia,2016,6890.52,185.25,456.12,Transporte,Renovables,Agrícola,9269.23,-2.08
+E0338,Rusia,1994,5646.29,492.67,230.84,Agricultura,Petróleo,Forestal,3870.2,0.08
+E0339,China,2020,2118.4,339.15,21.46,Energía,Carbón,Agrícola,6836.55,-1.58
+E0340,Estados Unidos,2011,9037.99,455.63,440.27,Agricultura,Petróleo,Agrícola,5436.55,0.68
+E0341,China,1996,2831.85,348.11,34.42,Energía,Petróleo,Agrícola,10642.09,-4.47
+E0342,China,1995,4268.61,628.84,433.89,Transporte,Petróleo,Forestal,10454.57,0.1
+E0343,Rusia,2015,2102.65,43.85,196.52,Industria,Petróleo,Forestal,10823.85,-1.32
+E0344,India,1990,3941.47,171.73,183.33,Transporte,Carbón,Agrícola,9544.29,0.35
+E0345,Estados Unidos,2008,4967.3,433.32,271.86,Residencial,Renovables,Urbano,10014.11,-0.77
+E0346,Rusia,1996,3022.95,356.94,478.59,Energía,Gas Natural,Urbano,2468.34,-2.16
+E0347,Alemania,2001,7714.03,392.24,449.47,Industria,Carbón,Forestal,9157.97,4.04
+E0348,China,2009,3999.94,803.96,235.69,Transporte,Petróleo,Agrícola,7826.54,-3.15
+E0349,India,2012,7322.15,886.45,348.22,Industria,Renovables,Urbano,10594.37,1.81
+E0350,Estados Unidos,2014,2150.01,249.42,290.63,Agricultura,Renovables,Agrícola,6326.75,4.25
+E0351,Brasil,2019,3832.65,836.55,347.04,Energía,Petróleo,Forestal,1028.32,0.39
+E0352,Estados Unidos,2018,179.78,459.33,414.83,Residencial,Carbón,Urbano,6611.65,3.76
+E0353,Estados Unidos,2020,7610.51,274.55,18.21,Agricultura,Petróleo,Forestal,7583.73,-3.75
+E0354,China,2007,6296.28,985.47,163.55,Industria,Renovables,Agrícola,2501.5,-0.06
+E0355,China,2008,8196.45,824.98,479.71,Transporte,Renovables,Forestal,4395.84,-0.43
+E0356,Brasil,1993,4610.55,994.26,474.72,Energía,Carbón,Forestal,6623.69,-4.92
+E0357,Brasil,1990,8017.43,169.02,6.6,Residencial,Gas Natural,Forestal,4177.75,-0.57
+E0358,Brasil,2004,6511.07,144.7,101.52,Transporte,Petróleo,Forestal,4186.93,-1.31
+E0359,Rusia,1997,135.77,503.87,496.89,Residencial,Gas Natural,Urbano,1550.64,1.7
+E0360,Rusia,2004,2611.57,639.01,246.92,Energía,Renovables,Agrícola,10354.14,4.38
+E0361,China,2004,4989.52,171.89,286.86,Industria,Gas Natural,Urbano,8280.39,-4.14
+E0362,China,2011,6225,860.57,84.04,Residencial,Petróleo,Agrícola,113.55,-1.73
+E0363,Brasil,2007,749.35,532.48,447.27,Energía,Petróleo,Agrícola,8445.18,-0.56
+E0364,Rusia,2005,7080.29,411.53,116.4,Residencial,Renovables,Agrícola,8163.77,-0.45
+E0365,India,1991,5481.01,602.45,95.63,Transporte,Carbón,Agrícola,206.07,2.75
+E0366,Rusia,2009,5305.22,635.32,114.83,Residencial,Carbón,Agrícola,4128.69,-0.57
+E0367,China,2005,2991.25,43.74,459.89,Transporte,Renovables,Urbano,6713.55,-4.73
+E0368,Rusia,1992,5988.75,999.89,351.72,Transporte,Petróleo,Agrícola,5034.98,2.1
+E0369,China,2019,372.18,364.56,384.53,Energía,Carbón,Forestal,8580.05,3.85
+E0370,Brasil,1991,740.53,62.48,189.14,Agricultura,Gas Natural,Urbano,4737.5,0.14
+E0371,Brasil,2015,7365.31,852.47,454.68,Residencial,Renovables,Urbano,1777.11,0.81
+E0372,Brasil,1994,3286.72,993.03,394.91,Industria,Gas Natural,Agrícola,10742.93,-3.37
+E0373,India,1991,3534.97,816.54,375.55,Transporte,Petróleo,Forestal,2738.24,-2.79
+E0374,India,2009,2163.01,852.03,485.5,Agricultura,Carbón,Forestal,7922.85,-2.65
+E0375,China,2023,4511.64,626.31,183.73,Transporte,Petróleo,Agrícola,1660.4,-0.69
+E0376,Estados Unidos,2023,614.73,922.4,305.88,Agricultura,Gas Natural,Agrícola,3686.24,4.28
+E0377,Alemania,2009,3073.6,36.7,455.05,Agricultura,Petróleo,Forestal,4918.1,0.22
+E0378,India,2014,5318.53,766.96,395.65,Industria,Petróleo,Urbano,2195.33,-3.08
+E0379,China,2009,4709.76,671.04,282.13,Agricultura,Renovables,Urbano,5004.56,-2.34
+E0380,Rusia,2014,9996.73,50.54,39.03,Industria,Renovables,Agrícola,1813.07,-1.16
+E0381,Brasil,2003,3948.77,544.43,326.71,Energía,Petróleo,Urbano,6193.17,1.23
+E0382,Brasil,2001,3931.29,515.55,263.75,Transporte,Renovables,Urbano,7334.47,-0.6
+E0383,Brasil,1994,5085.46,691.84,92.91,Industria,Petróleo,Forestal,780.53,-1.08
+E0384,China,1991,1984,78.45,441.24,Transporte,Gas Natural,Urbano,9595.34,0.65
+E0385,Brasil,2005,8775.41,805.47,172.28,Residencial,Renovables,Forestal,2118.04,-2.58
+E0386,India,2019,5765.45,140.26,194.35,Energía,Petróleo,Agrícola,2556.45,-4.21
+E0387,Rusia,2013,2001.87,419.25,336.53,Residencial,Renovables,Agrícola,7308.71,-4.76
+E0388,Brasil,2019,7955.07,881.41,244.91,Residencial,Petróleo,Forestal,5209.39,-2.49
+E0389,China,2000,439.89,560.97,45.55,Agricultura,Renovables,Forestal,5543.41,-4.08
+E0390,Rusia,2003,9827.39,380.21,194.33,Agricultura,Carbón,Agrícola,1496.89,-1.64
+E0391,Brasil,2012,8664.98,49.15,48.14,Residencial,Petróleo,Forestal,8882.52,2.73
+E0392,Estados Unidos,2005,5838.43,672.6,96.18,Agricultura,Carbón,Agrícola,6825.89,2.16
+E0393,Brasil,2010,1201.83,986.56,4.58,Transporte,Petróleo,Agrícola,1575.66,1.11
+E0394,Alemania,1993,2231.2,911.88,91.48,Agricultura,Carbón,Agrícola,4176.59,3.53
+E0395,India,2022,2866.41,717.58,165.89,Residencial,Petróleo,Agrícola,8933.47,-2.18
+E0396,Rusia,2003,2486.21,106.19,269.57,Agricultura,Renovables,Agrícola,6295.07,3.85
+E0397,India,2008,5025.45,240.2,459.72,Agricultura,Carbón,Agrícola,1284.27,-1.01
+E0398,Estados Unidos,1994,9451.15,187.66,270.62,Industria,Renovables,Urbano,4163.27,-0.99
+E0399,Estados Unidos,2020,4497.31,356.11,353.1,Industria,Petróleo,Urbano,2745.37,-0.95
+E0400,Alemania,2007,6649.49,236.28,179.48,Residencial,Renovables,Agrícola,5740.37,-4.02
+E0401,India,2020,6916.97,245.2,376.06,Transporte,Petróleo,Urbano,9292.64,4.75
+E0402,Rusia,2019,8728.65,617.11,310.61,Energía,Renovables,Forestal,4855.31,-3.61
+E0403,Estados Unidos,2010,434.83,319.38,230.44,Energía,Carbón,Forestal,4823.43,-1.59
+E0404,Estados Unidos,2019,4102.87,677.49,97.69,Residencial,Petróleo,Agrícola,9968.32,-1.81
+E0405,Brasil,1993,7868.88,947.94,152.47,Transporte,Renovables,Urbano,6380.42,-4.25
+E0406,Alemania,1994,8167.18,638.84,310.85,Transporte,Petróleo,Forestal,6271.48,-3.48
+E0407,China,1999,9280.59,751.91,213.6,Transporte,Petróleo,Forestal,2954.82,-4.55
+E0408,Estados Unidos,2016,7057.66,751.83,444.8,Industria,Petróleo,Forestal,6724.18,-2.08
+E0409,Rusia,2005,2527.02,331.37,118.19,Residencial,Gas Natural,Forestal,6377.42,3.67
+E0410,Rusia,2019,5106.09,15.94,37.46,Energía,Petróleo,Urbano,4425.68,-1.61
+E0411,Brasil,2002,420.22,55.99,295.08,Transporte,Renovables,Forestal,10898.58,-3.76
+E0412,Rusia,2010,6504.59,282.78,443.14,Residencial,Gas Natural,Forestal,9712.61,1.46
+E0413,Brasil,2004,5587.52,689.85,183,Energía,Renovables,Forestal,8270.49,4.97
+E0414,Estados Unidos,2009,6701.68,906.78,324.21,Industria,Gas Natural,Agrícola,5957.07,-2.68
+E0415,Estados Unidos,2009,9308.39,958.84,116.47,Agricultura,Petróleo,Forestal,5136.45,-2.2
+E0416,Estados Unidos,1994,6904.04,26.82,279.68,Energía,Carbón,Forestal,2115.38,4.72
+E0417,Estados Unidos,2021,3272.45,990.1,393.61,Energía,Carbón,Urbano,3432.54,-3.21
+E0418,China,1995,2067.49,323.17,433.65,Energía,Petróleo,Forestal,8536.17,0.11
+E0419,Alemania,2019,8560.9,843.11,53.45,Agricultura,Gas Natural,Forestal,5045.86,-2.6
+E0420,Alemania,2015,2023.89,181.12,178.83,Transporte,Renovables,Forestal,9716.74,4.32
+E0421,China,2002,1699.93,63.84,320.18,Agricultura,Carbón,Agrícola,1712.23,4.82
+E0422,Estados Unidos,2018,2145.46,378.98,18.33,Energía,Petróleo,Urbano,5640.98,3.15
+E0423,Rusia,1994,5137.52,859.07,345.62,Industria,Petróleo,Urbano,7151.93,-1.85
+E0424,Brasil,2014,1329.46,221.6,264.49,Energía,Gas Natural,Agrícola,5733.65,-0.97
+E0425,Alemania,2002,9387.37,154.8,144.99,Industria,Carbón,Agrícola,9792.57,-2.58
+E0426,India,2013,9665.91,909.89,407.51,Residencial,Petróleo,Urbano,10886.24,3.91
+E0427,Brasil,2020,9740.64,938.4,145.74,Industria,Carbón,Forestal,1362.6,4.15
+E0428,India,2009,487.34,13.54,495.72,Energía,Renovables,Urbano,1516.51,-0.81
+E0429,India,1997,9467.36,727.71,408.37,Agricultura,Petróleo,Agrícola,1520.53,1.57
+E0430,Estados Unidos,1998,9974.41,309.9,354.28,Energía,Petróleo,Forestal,7524.83,-3.34
+E0431,India,2010,9430.05,375.33,31.61,Energía,Renovables,Urbano,4162.17,-0.65
+E0432,Estados Unidos,2009,6742.3,469.63,452.25,Residencial,Petróleo,Forestal,8093.13,1.31
+E0433,China,2004,7042.18,427.36,395.24,Transporte,Gas Natural,Forestal,4519.64,-1.15
+E0434,Rusia,2015,1310.3,515.46,115.28,Energía,Renovables,Agrícola,6940.91,-1.42
+E0435,India,2000,8755.54,582.78,196.73,Residencial,Gas Natural,Urbano,8491.45,-4.99
+E0436,Rusia,2000,690.43,466.13,135.05,Agricultura,Renovables,Agrícola,6075.55,3.04
+E0437,Estados Unidos,2016,3245.53,701.86,492.22,Residencial,Renovables,Urbano,5980.59,3.89
+E0438,India,2019,9912.4,718.88,427.24,Residencial,Gas Natural,Urbano,1061.75,4.69
+E0439,Brasil,2008,4281.05,440.92,465.18,Industria,Renovables,Forestal,4577.52,2.19
+E0440,China,2023,1398.45,143.32,394.6,Transporte,Carbón,Forestal,6048.97,0.49
+E0441,Alemania,2012,9696.02,641,228.72,Transporte,Gas Natural,Forestal,5135.59,-2.31
+E0442,China,1990,9842.98,773.18,103.51,Agricultura,Renovables,Agrícola,9918.52,4.99
+E0443,India,1992,1951.72,638.47,104.83,Residencial,Gas Natural,Forestal,9981.18,0.9
+E0444,China,1992,8661.56,588.47,76.69,Agricultura,Renovables,Agrícola,9058.9,1.81
+E0445,Alemania,2017,3965.19,230.18,273.78,Agricultura,Renovables,Forestal,4190.75,1.82
+E0446,Brasil,2003,3875.55,645.49,460.06,Transporte,Carbón,Agrícola,7918.56,3.45
+E0447,Rusia,2019,2700.71,335.52,495.91,Transporte,Carbón,Urbano,4408.64,-4.9
+E0448,Brasil,1994,542.63,919.64,144.36,Transporte,Carbón,Agrícola,2635.27,-2.8
+E0449,China,2004,2753.29,654.07,348.96,Energía,Renovables,Agrícola,3837.64,1.66
+E0450,Alemania,2003,632.39,278.9,298.95,Residencial,Carbón,Agrícola,873.51,3.95
+E0451,Rusia,2003,9251.28,473.45,244.98,Agricultura,Gas Natural,Urbano,3716.37,1.85
+E0452,Alemania,1997,6651.03,846.73,333.22,Residencial,Renovables,Agrícola,5122.09,-0.87
+E0453,Brasil,1997,8877.56,336.13,186.31,Agricultura,Gas Natural,Urbano,10514.74,-1.38
+E0454,Estados Unidos,2008,7201.18,525.92,472.3,Agricultura,Carbón,Forestal,3516.18,2.38
+E0455,Estados Unidos,2021,1399.74,679.99,353.02,Agricultura,Renovables,Forestal,9936.74,2.41
+E0456,Rusia,2020,9411.76,754.77,377.35,Agricultura,Gas Natural,Urbano,2594.56,1.07
+E0457,Rusia,2018,9008.94,174.72,121.97,Industria,Petróleo,Agrícola,2181.56,-2.09
+E0458,Rusia,2000,3545.95,565.59,85.12,Industria,Gas Natural,Forestal,5757.05,4.25
+E0459,Estados Unidos,2002,1204.18,912.29,197.78,Energía,Renovables,Agrícola,7430.37,0.52
+E0460,Brasil,2016,7071.13,968.39,383.57,Transporte,Petróleo,Agrícola,583.22,2.9
+E0461,Rusia,2008,7310.78,656.49,469.46,Agricultura,Carbón,Urbano,2509.62,-2.86
+E0462,Estados Unidos,2015,8978.61,983.68,214.24,Residencial,Carbón,Forestal,5066.95,-1.56
+E0463,Rusia,1998,621.29,571.16,387.3,Industria,Gas Natural,Urbano,3707.95,3.75
+E0464,Rusia,2017,1502.87,443.16,235.73,Transporte,Carbón,Urbano,7867.57,-4.5
+E0465,Alemania,2021,6022.66,552.04,148.32,Energía,Gas Natural,Urbano,5671.65,0.12
+E0466,Rusia,1992,6229.4,116.6,369.89,Transporte,Gas Natural,Urbano,1847.91,-0.18
+E0467,Estados Unidos,2021,432.74,402.31,399.3,Agricultura,Gas Natural,Agrícola,9849.67,2.51
+E0468,Brasil,1994,4029.63,458.95,102.22,Transporte,Gas Natural,Forestal,3292.67,-2.18
+E0469,Estados Unidos,1997,5883.2,848.78,153.28,Agricultura,Renovables,Forestal,8069.33,-2.81
+E0470,Estados Unidos,2003,7405.32,758.89,247.89,Industria,Renovables,Forestal,8601.08,4.26
+E0471,Rusia,1992,3229.89,601.83,94.07,Industria,Petróleo,Agrícola,10598.42,0.72
+E0472,Alemania,2013,4890.64,347.93,464.49,Agricultura,Petróleo,Agrícola,5533.73,-3.95
+E0473,India,2002,8159.14,187.85,296.08,Residencial,Carbón,Urbano,6812.61,-3.07
+E0474,India,2018,9543.56,348.42,61.48,Industria,Renovables,Urbano,3750.15,4.99
+E0475,India,1997,2380.12,680.12,92.83,Residencial,Petróleo,Urbano,7492.15,-3.04
+E0476,Estados Unidos,2020,2605.12,263.77,477.22,Agricultura,Renovables,Urbano,5150.88,1.1
+E0477,Rusia,2015,9404.2,427.46,369.35,Agricultura,Renovables,Forestal,4870.41,-0.8
+E0478,India,2007,4019.52,387.38,367.47,Industria,Carbón,Urbano,9424.6,3.86
+E0479,China,2007,7211.65,765.82,37.18,Residencial,Carbón,Agrícola,646.84,2.55
+E0480,China,1996,6161.43,883.9,447.75,Agricultura,Gas Natural,Agrícola,9713.39,0.97
+E0481,China,2005,2927.32,699.67,222.42,Industria,Renovables,Agrícola,9387.56,-4.89
+E0482,Brasil,2022,6570.27,342.26,330.2,Agricultura,Gas Natural,Urbano,5619.39,3.8
+E0483,Rusia,1992,6590.1,433.74,479.88,Transporte,Gas Natural,Forestal,5443.21,-0.55
+E0484,Estados Unidos,1993,5965.19,144.21,50.91,Transporte,Gas Natural,Forestal,4043.7,4.32
+E0485,Estados Unidos,1993,1086.64,168.93,241.66,Industria,Renovables,Urbano,10936.49,-0.04
+E0486,Rusia,1998,9952.2,165.13,25.76,Agricultura,Renovables,Urbano,1311.75,1.94
+E0487,Alemania,2006,4064.12,131.46,250.27,Industria,Gas Natural,Agrícola,6533.35,-4.31
+E0488,Alemania,2006,6418.68,180.4,126.88,Energía,Renovables,Agrícola,7530.33,2.45
+E0489,Brasil,2022,8869.04,203.49,455.62,Industria,Gas Natural,Forestal,10284.2,-1.62
+E0490,Rusia,2009,4290.56,112.73,199.85,Industria,Petróleo,Agrícola,8604.22,-1.49
+E0491,Alemania,2003,7761.86,640.62,317.3,Transporte,Renovables,Agrícola,7117.93,-3.81
+E0492,Brasil,2011,9721.06,990.41,430.28,Transporte,Carbón,Urbano,1373.25,-3.53
+E0493,India,2016,3653.45,879.31,491.86,Agricultura,Carbón,Forestal,4173.7,-3.14
+E0494,India,1992,4112.17,46.56,252.41,Industria,Gas Natural,Urbano,1613.37,-1.72
+E0495,Brasil,2013,9065.2,423.64,228.42,Industria,Petróleo,Forestal,9705.22,3.92
+E0496,Rusia,2019,1680.46,859.45,38.79,Agricultura,Renovables,Urbano,8270.87,-1.32
+E0497,India,1997,383.09,135.54,7.36,Residencial,Gas Natural,Forestal,8357.15,2.24
+E0498,Rusia,2011,9098,847.8,304.79,Agricultura,Petróleo,Agrícola,7209.6,-4.17
+E0499,Alemania,2014,8233.76,593.11,33.67,Transporte,Petróleo,Forestal,5626.77,0.91
+E0500,India,1999,9728.57,931.37,190.81,Transporte,Renovables,Forestal,1734.68,-0.18
+E0501,Alemania,2018,676.55,876.16,2.8,Industria,Carbón,Urbano,3693.67,4.78
+E0502,Rusia,1990,1646.16,677.36,308,Transporte,Carbón,Forestal,1592.38,3.46
+E0503,Rusia,2010,1142.59,658.16,213.28,Agricultura,Petróleo,Forestal,8001.55,-0.45
+E0504,China,2013,6865.82,213.95,64.38,Industria,Carbón,Forestal,1846.49,2.75
+E0505,Brasil,1998,6099.5,117.64,148.89,Agricultura,Petróleo,Urbano,7753.04,-3.07
+E0506,Estados Unidos,2015,3657.42,415.98,285.26,Agricultura,Petróleo,Forestal,7645.58,0.62
+E0507,Brasil,1998,668.49,187.39,328.7,Industria,Petróleo,Urbano,5106.42,-4.25
+E0508,Rusia,2009,6432.65,103.31,231.71,Residencial,Carbón,Agrícola,1573.99,-1.52
+E0509,Rusia,1998,5744.19,303.02,402.18,Transporte,Gas Natural,Urbano,3531.33,-2.74
+E0510,Brasil,2011,1217.74,860.63,57.11,Energía,Carbón,Forestal,3589.01,2.19
+E0511,Rusia,1990,9098.21,18.13,43.19,Energía,Gas Natural,Agrícola,7734.2,-0.1
+E0512,Alemania,1994,2069.6,293.35,23.08,Energía,Carbón,Forestal,1339.8,2.51
+E0513,India,1998,7460.74,424.63,268.38,Transporte,Renovables,Urbano,9136.85,0.15
+E0514,Rusia,2008,8862.25,511.06,353.41,Residencial,Renovables,Agrícola,8394.98,-4.14
+E0515,Brasil,1997,5836.8,182.4,66.13,Agricultura,Carbón,Agrícola,2130.75,2.35
+E0516,Brasil,2021,2543.8,964.26,319.83,Industria,Renovables,Agrícola,7938.89,3.33
+E0517,Brasil,2002,3161.56,579.29,239,Residencial,Renovables,Forestal,7386.79,4.04
+E0518,China,2009,8868.9,522.59,493.68,Energía,Renovables,Agrícola,8254.52,0.72
+E0519,Alemania,2019,3052.75,9.81,359.02,Transporte,Renovables,Agrícola,2159.32,2.54
+E0520,Alemania,1999,7487.29,486.23,329.08,Transporte,Gas Natural,Agrícola,1817.73,2.52
+E0521,China,2020,9902.64,837.83,285.65,Industria,Petróleo,Agrícola,2677.68,-3.44
+E0522,Alemania,2014,9998.19,220.42,498.69,Agricultura,Gas Natural,Urbano,4088,-3.36
+E0523,China,2018,5381.45,351.86,490.25,Residencial,Petróleo,Forestal,8750.95,-4.29
+E0524,Alemania,2013,8282.9,21.55,269.52,Residencial,Petróleo,Forestal,8143.37,-1.8
+E0525,China,2010,9903.47,976.95,228.14,Residencial,Carbón,Agrícola,10187.42,-0.26
+E0526,China,1998,3809.26,67.59,231.6,Agricultura,Carbón,Urbano,739.06,4.98
+E0527,Alemania,1991,2598.85,898.32,214.74,Agricultura,Carbón,Agrícola,225.96,-0.69
+E0528,China,1993,1230.91,313.67,266.17,Agricultura,Carbón,Forestal,7720.61,2.26
+E0529,Alemania,1997,1494.91,587.97,137.52,Industria,Carbón,Forestal,3144.23,1.93
+E0530,China,2021,8550.21,679.64,463.47,Transporte,Gas Natural,Forestal,3741.46,-2.96
+E0531,Brasil,2003,5928.36,141.69,245.62,Energía,Gas Natural,Agrícola,6060.14,-4.41
+E0532,Estados Unidos,2002,8749.72,444.32,421.16,Agricultura,Renovables,Agrícola,1216.3,0.46
+E0533,Alemania,2010,7915.61,326.14,238.18,Transporte,Gas Natural,Urbano,7105.37,2
+E0534,China,2013,6770.07,57.55,359.43,Agricultura,Gas Natural,Urbano,3644.11,4.98
+E0535,Brasil,2007,6132.19,833.36,169.1,Energía,Carbón,Forestal,6996.59,-1.41
+E0536,Estados Unidos,2015,578.56,46.12,312.78,Agricultura,Renovables,Forestal,9190.68,3.96
+E0537,China,2021,8735.52,653.6,249.69,Transporte,Gas Natural,Urbano,1965.11,-1.18
+E0538,Estados Unidos,2022,4236.64,314.76,184.19,Industria,Gas Natural,Forestal,10246.52,1.89
+E0539,Alemania,2020,5641.89,192.94,440.9,Energía,Renovables,Urbano,5884.5,0.98
+E0540,Estados Unidos,2007,317.34,667.42,57.24,Transporte,Petróleo,Agrícola,10159.91,-4.47
+E0541,India,2001,9367.13,574.96,243.97,Residencial,Carbón,Forestal,2364.26,-4.22
+E0542,Rusia,2014,9037.13,315.94,97.99,Residencial,Gas Natural,Forestal,6689.73,-4.79
+E0543,India,2020,5478.45,513.45,430.67,Residencial,Gas Natural,Urbano,4502.37,-1.29
+E0544,Alemania,1999,5815.39,246.99,127.48,Industria,Renovables,Agrícola,8539.02,2.46
+E0545,Alemania,2023,7079.67,863.83,317.08,Agricultura,Gas Natural,Forestal,6704.41,-3.27
+E0546,Estados Unidos,1992,2720.48,314.5,83.62,Agricultura,Carbón,Forestal,5490.22,1.06
+E0547,Brasil,1997,2296.96,245.91,203.05,Agricultura,Gas Natural,Urbano,10051.54,-2.11
+E0548,China,2021,6772.83,752.08,449.78,Industria,Petróleo,Agrícola,4210.58,2.97
+E0549,Rusia,2018,1133.78,18.57,83.87,Residencial,Carbón,Urbano,2497.78,2.98
+E0550,China,2011,4595.21,268.74,331.93,Agricultura,Petróleo,Agrícola,6728.3,2.75
+E0551,Brasil,2009,4978.33,376.02,103.05,Industria,Renovables,Agrícola,6901.91,0.25
+E0552,Alemania,1995,3875.24,882.36,208.46,Industria,Carbón,Urbano,4886.13,-2.15
+E0553,Rusia,2018,1934.15,950.49,270.77,Transporte,Gas Natural,Urbano,5404.05,3.09
+E0554,India,2006,3617.63,716.76,289.08,Agricultura,Carbón,Agrícola,10559.13,-3.14
+E0555,Alemania,2020,3441.82,493.04,301.65,Residencial,Carbón,Urbano,8086.27,-2.1
+E0556,Alemania,2023,5042.73,640.98,320.43,Energía,Carbón,Forestal,1305.56,-3.16
+E0557,Estados Unidos,1993,6779.34,414.59,136.61,Industria,Petróleo,Forestal,2412.22,1.74
+E0558,Brasil,1991,9685.53,299.53,201.28,Transporte,Renovables,Forestal,10733.79,1.86
+E0559,Estados Unidos,2001,1527.22,950.74,19.62,Energía,Carbón,Forestal,8018.47,1.53
+E0560,Estados Unidos,1995,8742.87,116.27,384.61,Industria,Gas Natural,Forestal,10073.99,-0.84
+E0561,China,1997,2913.36,347.05,418.71,Transporte,Carbón,Urbano,3412.09,-4
+E0562,Alemania,2010,5954.59,899.19,100.42,Agricultura,Carbón,Agrícola,8186.35,4.11
+E0563,Brasil,2004,5512.7,723.42,101.52,Transporte,Renovables,Urbano,7882.63,0.08
+E0564,Estados Unidos,1996,5613.79,30.07,21.98,Industria,Gas Natural,Forestal,3312.12,-0.93
+E0565,India,2004,7261.25,24.08,485.22,Agricultura,Gas Natural,Forestal,6103.9,0.89
+E0566,Rusia,1995,3878.71,517,403.79,Residencial,Petróleo,Urbano,6938.82,-3.07
+E0567,Brasil,2006,3259.09,484.77,180.99,Transporte,Gas Natural,Urbano,5344.34,-3.67
+E0568,China,1993,8543.06,443.55,241.47,Energía,Gas Natural,Agrícola,9116.25,-0.94
+E0569,Brasil,2011,2278.94,303.04,146.69,Agricultura,Gas Natural,Forestal,9178.27,-2.73
+E0570,Alemania,2021,1884.44,986.65,299.02,Agricultura,Carbón,Urbano,9371.55,-2.56
+E0571,China,2011,254.51,272.72,358.94,Residencial,Petróleo,Agrícola,8857.32,3.93
+E0572,Rusia,2016,2184.72,490.55,224.24,Transporte,Gas Natural,Forestal,5420.11,0.31
+E0573,India,2004,5233.46,405.49,436.92,Energía,Gas Natural,Forestal,4257.68,-0.17
+E0574,Estados Unidos,2011,5431.24,171.08,259,Residencial,Gas Natural,Forestal,9162,1.89
+E0575,Brasil,2017,2618.76,203.42,72.98,Transporte,Carbón,Urbano,5443.2,4.52
+E0576,China,1998,815.51,918.38,311.52,Energía,Carbón,Forestal,2785.45,-3.88
+E0577,Rusia,2023,7471.94,858.42,231.65,Energía,Petróleo,Forestal,5630.04,3.34
+E0578,Estados Unidos,1998,7603.96,199.85,467.9,Industria,Renovables,Agrícola,1646.16,0.84
+E0579,Rusia,2004,9978.58,875.79,196.56,Energía,Petróleo,Urbano,7638.76,-3.54
+E0580,India,2009,9010.29,209.98,202.03,Transporte,Carbón,Agrícola,3761.54,-2.03
+E0581,Estados Unidos,1997,9268.01,626.92,325.74,Residencial,Gas Natural,Urbano,2941.18,-0.18
+E0582,Estados Unidos,2017,8002.22,82.2,263.97,Residencial,Gas Natural,Forestal,10525.95,1.91
+E0583,Estados Unidos,2008,6193.48,880.49,187.85,Industria,Petróleo,Agrícola,8568,-2.57
+E0584,China,2005,1372.6,52.45,494.9,Transporte,Gas Natural,Urbano,8679.06,0.35
+E0585,Estados Unidos,2000,6260.9,555.39,151.79,Energía,Carbón,Urbano,6898.57,1.85
+E0586,Rusia,1997,653.96,779.93,139.49,Industria,Petróleo,Forestal,9246.98,-0.51
+E0587,China,2022,8864.46,117.72,432.35,Agricultura,Renovables,Forestal,8374.87,3.63
+E0588,Estados Unidos,1999,4870.03,405.08,2.68,Transporte,Carbón,Agrícola,6626.63,3.69
+E0589,Rusia,2007,7004.98,42.91,101.43,Industria,Carbón,Agrícola,10576.26,-0.29
+E0590,Rusia,1992,617.21,683.07,295.63,Residencial,Gas Natural,Urbano,2188.38,4.73
+E0591,Brasil,2016,5389.06,308.14,82.06,Industria,Carbón,Agrícola,10382.84,-4.24
+E0592,Rusia,2017,3082.51,559.84,492.92,Agricultura,Carbón,Forestal,4475.68,-4.97
+E0593,Alemania,1995,2921.19,932.8,232.63,Transporte,Renovables,Agrícola,5859.55,-1.19
+E0594,India,2003,3957.59,306.55,299.08,Industria,Gas Natural,Agrícola,1437.86,1.01
+E0595,Estados Unidos,1996,106.33,49.58,81.03,Energía,Carbón,Urbano,5987.17,1.29
+E0596,Estados Unidos,1999,4719.94,675.95,145.4,Transporte,Gas Natural,Forestal,6762.15,-0.24
+E0597,Estados Unidos,2004,4917.01,787.05,307.7,Industria,Carbón,Urbano,10974.95,-3.75
+E0598,Rusia,2020,8645,957.91,275.23,Industria,Renovables,Forestal,10729.6,-3.3
+E0599,Rusia,2018,4540.4,158.64,392.4,Transporte,Gas Natural,Forestal,10633.73,3.52
+E0600,Estados Unidos,2006,3699.21,392.75,135.35,Residencial,Gas Natural,Urbano,3897.43,3.68
+E0601,Alemania,2018,9948,844.3,327.12,Energía,Renovables,Agrícola,10904.8,1.74
+E0602,China,2004,5755.01,807.06,146.2,Transporte,Petróleo,Urbano,5064.71,1.64
+E0603,China,2015,4778.87,625.17,293.79,Energía,Carbón,Agrícola,9385.02,0.98
+E0604,India,2001,5009.76,270.1,302.91,Energía,Carbón,Urbano,2457.89,-2.97
+E0605,Brasil,2014,8110.89,284.75,61.8,Transporte,Petróleo,Urbano,5613.58,-0.72
+E0606,India,1994,3472.7,124.88,274.77,Industria,Gas Natural,Agrícola,10629.53,1.96
+E0607,Estados Unidos,1993,3952.69,921.93,6.96,Residencial,Gas Natural,Agrícola,10422.64,0.37
+E0608,Estados Unidos,2020,7583.15,173.76,251.1,Energía,Renovables,Agrícola,7552.71,-4.81
+E0609,Estados Unidos,1992,822.54,573.31,349.06,Energía,Renovables,Urbano,8796.18,4.54
+E0610,Brasil,1992,8665.17,584.77,37.34,Industria,Renovables,Agrícola,2023.05,3.45
+E0611,Rusia,2015,4359.01,370.24,469.42,Transporte,Petróleo,Agrícola,7966.08,-2.39
+E0612,Brasil,2006,5854.8,353.17,229.92,Residencial,Petróleo,Agrícola,6836.75,1.16
+E0613,India,1999,7599.01,668.92,469.27,Energía,Gas Natural,Forestal,1097.91,4.23
+E0614,Rusia,1991,2733.91,388.91,54.59,Energía,Renovables,Agrícola,1333.43,-4.04
+E0615,Rusia,2013,8914.11,255.86,475,Transporte,Gas Natural,Agrícola,1282.04,0.03
+E0616,India,2000,9794.33,399.73,55.49,Industria,Petróleo,Agrícola,7995.49,-0.44
+E0617,Rusia,2013,4993.32,807.85,231.29,Agricultura,Carbón,Forestal,1644.7,-0.9
+E0618,China,2012,9375.68,966.51,469.06,Industria,Gas Natural,Forestal,5198.28,3.36
+E0619,India,2021,111.17,636.31,117.12,Energía,Petróleo,Agrícola,3991.1,-1.19
+E0620,India,2012,8952.95,782.32,18.36,Energía,Renovables,Agrícola,6100.5,-4.36
+E0621,China,2023,3179.35,533.29,396.76,Residencial,Carbón,Agrícola,7800.59,-4.34
+E0622,Brasil,2008,3183.8,625.2,298.35,Industria,Carbón,Agrícola,7563.48,-4.57
+E0623,Brasil,1991,2358.08,988.1,257.45,Agricultura,Carbón,Forestal,5719.17,-0.91
+E0624,Brasil,1991,3238.44,438.98,18.14,Residencial,Renovables,Agrícola,5161.25,2.18
+E0625,Rusia,2004,2213.5,67.19,326.96,Agricultura,Carbón,Forestal,4436.19,-2.96
+E0626,China,2010,9068.1,957.05,86.64,Residencial,Petróleo,Urbano,9494.82,1.46
+E0627,India,1994,9000.33,793.27,465.67,Industria,Gas Natural,Forestal,3706.28,1.87
+E0628,India,2016,1111.89,398.91,343.18,Energía,Carbón,Urbano,2927.09,-2.45
+E0629,India,2013,1514.3,982.41,353.81,Agricultura,Carbón,Forestal,8202.14,1.01
+E0630,Rusia,1996,8633.98,346.19,117.06,Industria,Petróleo,Forestal,4021.42,1.85
+E0631,Rusia,1995,4049.48,372.75,440.5,Agricultura,Renovables,Forestal,9332.28,-0.33
+E0632,Alemania,2022,1775.79,610.12,269.33,Industria,Carbón,Agrícola,3673.99,-1.63
+E0633,Brasil,2006,5155.63,275.07,428.69,Residencial,Petróleo,Forestal,7751.2,1.19
+E0634,Alemania,2019,4225.01,698.87,136.2,Industria,Petróleo,Agrícola,591.69,4.78
+E0635,Alemania,1997,2269.7,153.7,377.98,Residencial,Renovables,Forestal,4302.64,-0.73
+E0636,Rusia,1996,7235.45,108.92,287.71,Energía,Renovables,Forestal,3841.21,-1.08
+E0637,Brasil,1995,6349.76,535.34,25.16,Residencial,Gas Natural,Urbano,9001.8,-0.36
+E0638,Brasil,1993,1086.65,555.94,203.27,Transporte,Carbón,Forestal,10640.9,-4.24
+E0639,India,1990,9261.33,107.55,92.77,Energía,Gas Natural,Agrícola,5123.61,0.53
+E0640,Rusia,2004,5628.85,964.21,180.23,Industria,Petróleo,Urbano,9090.72,-1.71
+E0641,Brasil,2020,2577.02,573.71,192.29,Industria,Carbón,Urbano,7726.67,-3.79
+E0642,Alemania,2014,2142.29,151.88,237.99,Transporte,Petróleo,Forestal,10644.51,-0.34
+E0643,China,2022,1445.89,312.13,300.54,Industria,Petróleo,Forestal,8941.08,-4.97
+E0644,China,1994,4303.91,800.43,285.92,Energía,Petróleo,Urbano,944.51,-0.98
+E0645,Rusia,1994,1441.86,523.71,20.46,Energía,Renovables,Agrícola,7874.77,-3.94
+E0646,India,2006,4216.58,188.96,375.59,Residencial,Renovables,Forestal,5936.95,-4.76
+E0647,India,2003,1572.83,103.75,474.64,Agricultura,Carbón,Urbano,279.15,3.24
+E0648,Brasil,2018,6602.39,431.34,174.99,Industria,Petróleo,Agrícola,2839.31,4.16
+E0649,Rusia,1997,7873.9,338.08,90.69,Transporte,Petróleo,Forestal,10147.13,-2.92
+E0650,China,2023,5540.28,656.26,270.46,Energía,Carbón,Urbano,10194.07,0.39
+E0651,Alemania,1990,6832.56,925.32,352.75,Energía,Gas Natural,Urbano,8807.47,-2.22
+E0652,Brasil,2018,9389.95,248.48,339.77,Energía,Petróleo,Forestal,10801.4,-0.06
+E0653,Alemania,2018,6419.88,855.38,306.44,Agricultura,Renovables,Agrícola,8891.34,-0.63
+E0654,Brasil,1994,3705.17,920.54,73.97,Agricultura,Gas Natural,Agrícola,211.23,-2.31
+E0655,Estados Unidos,2021,4549.85,902.1,418.58,Industria,Gas Natural,Urbano,3237.39,2
+E0656,Alemania,2013,8619.2,952.13,213.39,Transporte,Gas Natural,Agrícola,433.8,-3.74
+E0657,Rusia,2008,1394.13,842.27,111.51,Agricultura,Gas Natural,Urbano,1125.78,-4.47
+E0658,Alemania,2001,3324.8,593.89,44.05,Residencial,Gas Natural,Forestal,2485.36,2.68
+E0659,Alemania,1990,5815.07,410.44,208.94,Agricultura,Gas Natural,Agrícola,5588.79,1.66
+E0660,Brasil,1996,6796.26,492.2,309.37,Energía,Carbón,Forestal,9338.1,-0.01
+E0661,China,2006,7658.64,872.74,333.02,Transporte,Carbón,Urbano,9495.44,-0.32
+E0662,Estados Unidos,2023,3250.25,302.1,481.41,Industria,Gas Natural,Forestal,6816.6,-0.03
+E0663,Alemania,1996,1544.01,160.1,77.42,Agricultura,Renovables,Agrícola,10217.12,-0.63
+E0664,China,2006,9552.91,141.68,492.9,Energía,Carbón,Forestal,5550.68,-1.07
+E0665,India,1992,856.28,827.17,327.68,Residencial,Carbón,Agrícola,9790.49,0
+E0666,Estados Unidos,2018,1048.47,761.72,227.66,Residencial,Gas Natural,Agrícola,5049.31,0.29
+E0667,Estados Unidos,2011,4999.93,498.15,444.21,Industria,Renovables,Agrícola,3121.75,1.92
+E0668,Brasil,2018,8210.78,275.6,347.55,Industria,Gas Natural,Agrícola,10088.9,2.11
+E0669,Alemania,1994,7767.59,677.94,175.01,Agricultura,Renovables,Agrícola,4328.49,-1.22
+E0670,India,2019,9383.22,39.39,442.16,Industria,Renovables,Urbano,5587.1,-0.86
+E0671,Brasil,2012,1501.87,568.66,333.64,Energía,Petróleo,Forestal,3684.58,-1.26
+E0672,Rusia,2010,3819.7,399.03,349.72,Energía,Carbón,Urbano,7324.93,0.37
+E0673,China,2015,2893.21,977.88,448.3,Energía,Gas Natural,Forestal,10945.84,-0.47
+E0674,China,2010,8622.61,508.05,224.76,Agricultura,Carbón,Forestal,378.1,3.9
+E0675,Brasil,2009,4934.71,552.72,328.8,Agricultura,Carbón,Forestal,9908.34,1.96
+E0676,China,2012,365.79,712.65,372.6,Industria,Renovables,Urbano,142.79,3.99
+E0677,Alemania,1993,7108.85,485.05,227.52,Agricultura,Carbón,Agrícola,4070.08,2.09
+E0678,China,2010,3948.11,225.34,42.64,Energía,Petróleo,Agrícola,1937.81,4.71
+E0679,Alemania,2010,5358.35,537.74,385.95,Transporte,Gas Natural,Urbano,8355.03,1.36
+E0680,Rusia,1990,8948.5,944.32,24.86,Energía,Carbón,Agrícola,651.66,4.64
+E0681,India,2004,2641.7,410.5,359.24,Transporte,Gas Natural,Forestal,6132.99,-3.42
+E0682,Estados Unidos,2006,2478.62,679.96,455.53,Industria,Carbón,Agrícola,3314.69,-4.48
+E0683,Brasil,2003,2705.61,978.06,174.14,Residencial,Gas Natural,Agrícola,1557.01,0.79
+E0684,Brasil,2008,3447.27,830.09,51.93,Agricultura,Gas Natural,Agrícola,8512.82,4.83
+E0685,Alemania,2023,1162.8,659.38,117.2,Agricultura,Gas Natural,Forestal,2469.84,-0.82
+E0686,Rusia,1995,7002.47,736.26,281.58,Energía,Carbón,Agrícola,2538.06,-2.88
+E0687,Rusia,1995,2153.25,936.55,471.39,Energía,Petróleo,Agrícola,3098.34,0.22
+E0688,Estados Unidos,1994,9268.84,959.79,256.63,Transporte,Gas Natural,Agrícola,6495.76,1.49
+E0689,India,1996,2235.29,969,57.26,Agricultura,Renovables,Urbano,7290.36,-1.85
+E0690,Brasil,2022,2630.86,626.02,314.26,Industria,Renovables,Urbano,291.87,2.15
+E0691,Alemania,2002,3040.5,385.33,366.69,Energía,Renovables,Agrícola,2736.38,4.75
+E0692,Rusia,1990,7708.53,134.02,197.25,Agricultura,Petróleo,Urbano,4797.58,3.97
+E0693,Brasil,2002,4333.3,386.16,361.04,Residencial,Gas Natural,Urbano,3718.55,-2.08
+E0694,Alemania,2016,8211.41,943.01,163.09,Transporte,Petróleo,Forestal,9737.46,-1.73
+E0695,China,1996,7870.05,889.91,394.76,Energía,Gas Natural,Urbano,8686.03,-1.28
+E0696,Brasil,1992,9301.96,524.14,171.2,Energía,Petróleo,Urbano,6922.2,-1.05
+E0697,India,2014,7590.38,537.47,128.8,Industria,Gas Natural,Agrícola,3784.66,-4
+E0698,Alemania,2022,613.92,309.61,439.71,Energía,Renovables,Forestal,7737.33,2.62
+E0699,India,2006,8389.08,455.05,274.69,Agricultura,Gas Natural,Forestal,9295.65,-1.35
+E0700,Brasil,2003,9386.92,714.73,143.29,Agricultura,Petróleo,Forestal,6583.65,3.8
+E0701,China,2012,9937.52,403.03,467.61,Agricultura,Gas Natural,Urbano,8650.63,4.27
+E0702,India,2013,1340.15,188.8,345.73,Residencial,Carbón,Agrícola,8265.24,-4.76
+E0703,Rusia,2018,6171.41,541.32,111.13,Residencial,Gas Natural,Forestal,6331.94,4.89
+E0704,Alemania,2016,2074.64,226.11,307.71,Energía,Renovables,Forestal,3502.8,2.1
+E0705,Brasil,2012,2698.85,974.31,435.31,Residencial,Gas Natural,Urbano,8229.03,0.2
+E0706,China,2020,7481.28,390.95,348.38,Residencial,Carbón,Forestal,2354.08,-1.1
+E0707,Rusia,2006,9778.91,909.76,123.13,Industria,Carbón,Agrícola,8596.42,0.19
+E0708,Brasil,1992,5989.07,226.33,324.78,Residencial,Carbón,Forestal,8869.56,-1.75
+E0709,China,1994,8520.79,190.02,309.96,Transporte,Petróleo,Agrícola,9061.38,1.23
+E0710,Rusia,2004,187.95,617.28,410.6,Transporte,Carbón,Agrícola,5254.78,-4.07
+E0711,India,1995,462.65,779.6,89.89,Transporte,Petróleo,Agrícola,2198.04,1.21
+E0712,Brasil,1999,6007.57,567.2,350.12,Energía,Carbón,Urbano,1186.99,-2.25
+E0713,Brasil,2021,3950.93,230.57,14.66,Agricultura,Petróleo,Urbano,8202.64,-4.82
+E0714,India,2012,8908.6,38.86,348.39,Industria,Carbón,Agrícola,9760.25,0.53
+E0715,Estados Unidos,2006,3089.62,618.67,480.26,Energía,Carbón,Agrícola,7194.14,0.78
+E0716,Rusia,2009,4377.31,131.91,88.02,Agricultura,Gas Natural,Forestal,1671.34,-0.73
+E0717,India,2004,5326.3,343.83,156.34,Industria,Carbón,Forestal,10290.37,-4.28
+E0718,Brasil,2011,2803.08,676.11,291.85,Industria,Gas Natural,Forestal,10881.21,3.93
+E0719,Rusia,1995,9094.1,98.93,366.47,Industria,Carbón,Urbano,4823.83,1.11
+E0720,Rusia,1993,4698.88,128.12,172.84,Transporte,Carbón,Forestal,6583.6,-3.84
+E0721,Estados Unidos,2012,4299.14,62.6,332.47,Transporte,Gas Natural,Agrícola,8571.79,0.11
+E0722,Brasil,2008,8512.56,996.08,449.74,Transporte,Gas Natural,Agrícola,8126.65,-0.03
+E0723,China,2020,3188.59,387.69,363.55,Industria,Petróleo,Urbano,10648.88,-4.4
+E0724,Estados Unidos,1992,8192.91,905.89,355.8,Industria,Renovables,Urbano,1352.23,1.07
+E0725,Estados Unidos,2017,1310.5,294.29,191.6,Transporte,Gas Natural,Forestal,6429.9,3.08
+E0726,China,1992,1909.61,753.45,455.8,Industria,Petróleo,Urbano,7642.05,2.49
+E0727,China,2003,9513.33,219.85,139.38,Transporte,Carbón,Agrícola,9802.07,-2.97
+E0728,Estados Unidos,2007,8440.23,498.83,103.43,Transporte,Gas Natural,Agrícola,9627.79,3.62
+E0729,Rusia,2016,3940.2,824.79,182.75,Transporte,Gas Natural,Urbano,10760.2,-1.57
+E0730,India,1999,6420.72,816.52,325.43,Agricultura,Carbón,Agrícola,5681.66,4.47
+E0731,India,2004,9435.4,794.49,430.98,Industria,Carbón,Urbano,9155.29,-4.28
+E0732,Estados Unidos,2008,2197.4,823.91,66.91,Energía,Carbón,Agrícola,4757.37,-0.14
+E0733,Rusia,1998,684.2,212.26,407.09,Transporte,Carbón,Forestal,4703.22,0.97
+E0734,China,1993,5420.93,482.73,406.6,Energía,Renovables,Urbano,2861.5,-2.52
+E0735,Alemania,2004,1511.71,485.39,293.87,Agricultura,Gas Natural,Urbano,9018.79,2.71
+E0736,Estados Unidos,1997,1954.46,890.61,380.56,Industria,Carbón,Urbano,10845.38,1.27
+E0737,Brasil,1990,8926.24,297.59,91.76,Transporte,Carbón,Agrícola,2894.12,-4.82
+E0738,Rusia,1996,173.29,931.56,85.62,Transporte,Renovables,Forestal,711.83,1.08
+E0739,Brasil,2020,8186.52,451.34,431.54,Transporte,Gas Natural,Urbano,8989.41,-0.09
+E0740,Brasil,2007,5217.81,670.12,249.58,Energía,Petróleo,Agrícola,6860.51,-3.04
+E0741,Estados Unidos,2001,5637.01,269.61,123.72,Agricultura,Gas Natural,Urbano,10560.72,4.96
+E0742,Rusia,2019,6750.5,410.89,344.68,Industria,Petróleo,Agrícola,2849.41,3.97
+E0743,Brasil,2022,4371.31,710.09,446.05,Agricultura,Renovables,Forestal,874.2,-2.07
+E0744,Rusia,1996,1244.56,513.23,316.53,Transporte,Carbón,Agrícola,5467.62,0.41
+E0745,India,2017,1117.92,930.78,174.33,Agricultura,Renovables,Agrícola,1031.58,-1.83
+E0746,Alemania,1992,7568.19,737.39,242.14,Energía,Gas Natural,Urbano,2953.51,2.75
+E0747,Brasil,1995,2288.25,564.84,376.38,Residencial,Carbón,Agrícola,1473.16,4.3
+E0748,Brasil,2020,378.21,886.78,34.68,Residencial,Gas Natural,Urbano,2543.04,-1.41
+E0749,Rusia,2004,9798.18,665.89,109.37,Industria,Petróleo,Agrícola,1256.98,3.06
+E0750,Alemania,1996,9805.88,647.67,231.83,Industria,Gas Natural,Forestal,10497.58,-0.02
+E0751,India,2019,3843.6,247.12,302.52,Agricultura,Renovables,Agrícola,3136.33,-1.03
+E0752,Brasil,2016,352.69,395.46,170.24,Industria,Renovables,Urbano,4938.48,4.38
+E0753,Estados Unidos,2006,7299.92,683.62,149.9,Energía,Renovables,Agrícola,9894.87,0.1
+E0754,Rusia,2007,8327.02,891.9,21.65,Transporte,Carbón,Agrícola,7482.81,-0.33
+E0755,Rusia,2011,1337.64,316.23,17.27,Transporte,Gas Natural,Forestal,6836.61,1.72
+E0756,Brasil,2015,1441.04,216.27,140.07,Agricultura,Carbón,Urbano,7790.64,-2.39
+E0757,India,2016,8240.02,594.1,265.72,Transporte,Gas Natural,Forestal,9134.16,-1.75
+E0758,Brasil,2013,9226.88,68.13,278.63,Agricultura,Petróleo,Agrícola,9666.6,4.32
+E0759,China,1997,7928.47,714.83,247.52,Industria,Gas Natural,Forestal,7104.77,1.79
+E0760,Brasil,2010,2087.37,703.44,205.53,Industria,Gas Natural,Agrícola,9801.08,3.27
+E0761,Alemania,2018,4174.06,355.61,126.89,Energía,Gas Natural,Agrícola,5935.83,-2.29
+E0762,Alemania,2010,6048.34,892.78,200.95,Transporte,Gas Natural,Forestal,3122.47,0.44
+E0763,China,1992,1686.91,502.68,70.24,Energía,Petróleo,Forestal,9692.84,4.71
+E0764,Alemania,2020,2184.96,646.12,58.51,Residencial,Carbón,Agrícola,6002.05,-1.81
+E0765,Alemania,2016,2900.57,210.37,150.67,Energía,Renovables,Forestal,9976.9,-3.4
+E0766,Estados Unidos,2016,5144.18,417.92,497.68,Agricultura,Gas Natural,Forestal,537.83,0.11
+E0767,Rusia,1998,5156.97,862.56,163.92,Agricultura,Renovables,Agrícola,4432.92,-1.12
+E0768,Alemania,2022,8161.52,213.73,468.29,Energía,Renovables,Urbano,10431.07,-3.4
+E0769,Rusia,2022,7554.8,391.18,196.74,Industria,Renovables,Forestal,2821.19,3.89
+E0770,India,2015,9145.98,318.76,220.07,Residencial,Renovables,Forestal,10362.75,4.91
+E0771,Brasil,2017,8345.73,151.96,398.73,Energía,Gas Natural,Urbano,10497.54,0.69
+E0772,Estados Unidos,2020,2613.39,290.43,47.73,Industria,Renovables,Forestal,9715.35,2.75
+E0773,China,1990,3379.84,233.54,91.97,Energía,Gas Natural,Agrícola,6243.98,3.59
+E0774,India,2009,5054.19,923.67,486.95,Transporte,Petróleo,Forestal,7151.64,2.01
+E0775,Estados Unidos,2001,241.28,741.34,253.45,Agricultura,Carbón,Agrícola,9578.83,-4.56
+E0776,Estados Unidos,2006,9048.63,316.79,23.11,Transporte,Carbón,Urbano,8557.28,-3.42
+E0777,China,2004,539.01,763.58,24.64,Transporte,Gas Natural,Urbano,6968.02,-4.29
+E0778,China,2023,3292.17,23.12,453.71,Residencial,Gas Natural,Urbano,10806.63,-4.9
+E0779,Rusia,2005,5734.83,527,436.81,Industria,Carbón,Forestal,7573.88,-1.94
+E0780,Brasil,1993,5226.63,251.08,229.74,Agricultura,Renovables,Urbano,10732.75,-1.08
+E0781,India,1997,6579.15,115.21,82.45,Transporte,Gas Natural,Forestal,725.53,-2.59
+E0782,Brasil,2023,5322.45,883.87,415.31,Agricultura,Renovables,Forestal,1614.67,-4.35
+E0783,India,2014,2367.11,200.14,162.98,Industria,Gas Natural,Forestal,5020.9,0.3
+E0784,Estados Unidos,2004,2090.67,822.57,210.11,Energía,Gas Natural,Urbano,4295.19,-2.27
+E0785,Alemania,2017,9081.75,413.81,341.56,Transporte,Petróleo,Urbano,8631.81,2.96
+E0786,Alemania,1998,2713.27,15.28,177.35,Industria,Petróleo,Forestal,1850.69,-4.92
+E0787,China,1991,2881.67,732.8,314.71,Agricultura,Carbón,Urbano,10739.44,3.43
+E0788,China,2006,4188.23,596.76,442.76,Industria,Petróleo,Forestal,3534.22,4.55
+E0789,Estados Unidos,1999,1480.44,344.83,398.89,Energía,Petróleo,Urbano,4775.27,2.16
+E0790,Estados Unidos,1998,5122,282.26,191.42,Industria,Carbón,Agrícola,3094.72,2.34
+E0791,India,2020,6683.81,74.62,144.68,Agricultura,Renovables,Urbano,6415.06,4.34
+E0792,Estados Unidos,1991,7881.4,941.48,143.47,Transporte,Petróleo,Urbano,739.05,-2.91
+E0793,India,2013,7143.4,494.49,174.95,Transporte,Renovables,Urbano,1731.48,4.95
+E0794,Brasil,2008,1561.6,86.44,247.26,Residencial,Carbón,Forestal,8229.19,2.73
+E0795,China,2006,4615.06,868.81,208.88,Agricultura,Gas Natural,Forestal,2132.86,2.27
+E0796,China,1999,482,279.55,67.37,Residencial,Renovables,Agrícola,2667.11,-1.39
+E0797,Alemania,2017,276.2,204.4,82.56,Residencial,Carbón,Agrícola,8743.51,0.46
+E0798,Alemania,2017,4457.29,281.66,172.12,Energía,Renovables,Agrícola,1116.98,1.54
+E0799,China,1990,2604.31,565.01,281.47,Agricultura,Carbón,Forestal,4868.46,1.2
+E0800,Brasil,1992,6865.27,74.98,296.74,Transporte,Carbón,Agrícola,351.39,2.05
+E0801,Brasil,2004,7269.98,482.28,243.62,Agricultura,Gas Natural,Agrícola,3880.2,-4.18
+E0802,Rusia,1999,8964.5,895.85,369.65,Energía,Renovables,Urbano,7718.9,-1.44
+E0803,India,2010,7630.76,188.98,368.89,Agricultura,Gas Natural,Agrícola,1082.13,-0.66
+E0804,Alemania,2004,577.62,331.86,214.39,Agricultura,Gas Natural,Urbano,9782.85,-2.39
+E0805,India,2012,3779.07,396.73,63.1,Residencial,Renovables,Forestal,10013.54,-3.27
+E0806,Alemania,2003,2802.93,586.63,265.56,Agricultura,Renovables,Forestal,1244.4,-3.61
+E0807,Rusia,2004,3922.71,919.33,191.35,Residencial,Carbón,Urbano,10898.98,-1.34
+E0808,China,1999,1684.75,395.14,69.82,Residencial,Renovables,Agrícola,3343.07,-0.07
+E0809,India,1998,1067.27,70.08,490.93,Industria,Carbón,Forestal,1016.71,-4.37
+E0810,Alemania,1994,5257.75,348.6,185.51,Energía,Carbón,Urbano,155.23,4.46
+E0811,India,2014,7231.77,190.9,313.27,Residencial,Carbón,Forestal,4552.9,2.65
+E0812,China,2015,7048.92,652.12,245.57,Agricultura,Carbón,Forestal,6964.93,2.31
+E0813,Estados Unidos,1997,4564.35,30.23,72.27,Residencial,Carbón,Agrícola,3720.75,-3.27
+E0814,Alemania,2011,5270.56,292.64,28.72,Residencial,Carbón,Forestal,9220.22,1.04
+E0815,Estados Unidos,2014,5211.65,545.63,313.26,Residencial,Renovables,Urbano,7911.01,0.3
+E0816,Rusia,2001,6946.55,278.06,124.26,Transporte,Renovables,Agrícola,3916.76,4.82
+E0817,Brasil,1998,574.46,551.44,122.58,Transporte,Petróleo,Urbano,8103.98,2.48
+E0818,India,1999,7127.97,115.6,478.53,Transporte,Renovables,Urbano,10351.32,0.76
+E0819,Alemania,1999,5863.79,942.86,231.42,Transporte,Gas Natural,Urbano,1114.75,3.51
+E0820,India,1998,2061.28,291.62,15.68,Industria,Petróleo,Agrícola,3436.53,-3.45
+E0821,Rusia,2015,585.68,923.08,170.58,Residencial,Renovables,Forestal,5150.25,-4.85
+E0822,Rusia,2016,1174.43,326.51,292.66,Industria,Gas Natural,Urbano,5528.09,1.9
+E0823,India,2020,5294.44,782.06,164.96,Agricultura,Renovables,Forestal,6009.93,-4.02
+E0824,Alemania,2008,7608.24,246.94,14.4,Energía,Carbón,Forestal,3376.83,-3.85
+E0825,China,1995,3413.11,670.1,222.71,Industria,Petróleo,Urbano,7373.13,2.45
+E0826,China,2004,3853.33,324.39,53.85,Transporte,Carbón,Forestal,7131.42,-2.29
+E0827,Brasil,2018,9348.05,509.65,309.96,Transporte,Petróleo,Agrícola,6398.25,1.29
+E0828,India,1994,2208.83,674.14,310.17,Agricultura,Petróleo,Agrícola,1340,4.17
+E0829,India,2003,1127.12,589.29,19.84,Residencial,Carbón,Forestal,5298.95,-1.84
+E0830,Alemania,1991,3499.76,576.7,146.04,Energía,Petróleo,Forestal,3982.87,-2.83
+E0831,India,2012,7484.63,66.62,207.43,Industria,Petróleo,Agrícola,5452.32,-3.93
+E0832,Alemania,2008,6298.17,249.83,275.58,Residencial,Renovables,Forestal,10148.34,-3.7
+E0833,India,2013,4216.37,572.27,148.74,Residencial,Gas Natural,Forestal,5337.79,-4.38
+E0834,Rusia,2009,9651.05,19.3,144.59,Industria,Carbón,Forestal,252.39,-4.12
+E0835,Estados Unidos,2016,7376.46,251.39,491.52,Industria,Renovables,Forestal,4883.32,-0.68
+E0836,India,2013,712.43,229.96,21.89,Industria,Renovables,Urbano,9045.07,-1.79
+E0837,Estados Unidos,2006,7471.85,250.61,494.53,Industria,Carbón,Forestal,8602.66,2.07
+E0838,China,2014,337.98,536.07,24.83,Transporte,Petróleo,Agrícola,5695.95,3.7
+E0839,Brasil,2020,6538.2,582.38,144.88,Residencial,Carbón,Urbano,2822.48,2.85
+E0840,China,2017,2183.78,909.09,247.35,Residencial,Gas Natural,Urbano,5169.47,0.31
+E0841,India,2017,6994.78,386.65,72.51,Transporte,Gas Natural,Agrícola,6244.35,-3.98
+E0842,Alemania,2011,3166.82,926.65,68.29,Residencial,Carbón,Forestal,10998.6,2.1
+E0843,China,1994,8742.76,652.3,128.9,Industria,Renovables,Urbano,7121.54,-1.37
+E0844,Rusia,1997,3435.45,912.75,486.78,Energía,Carbón,Urbano,7667.49,-4.14
+E0845,Estados Unidos,2017,6234.99,833.64,190.68,Residencial,Gas Natural,Forestal,5456.85,3.42
+E0846,Alemania,2001,2930.68,687.89,283.43,Energía,Carbón,Forestal,3963.94,-1.62
+E0847,Alemania,2014,9180.49,356.75,352.44,Energía,Petróleo,Agrícola,8961.19,-2.82
+E0848,India,2004,7831.86,241.87,371.37,Transporte,Carbón,Urbano,5494.76,3.71
+E0849,Rusia,2023,2508.7,223.17,344.33,Agricultura,Renovables,Forestal,10942.12,4.02
+E0850,Estados Unidos,2002,9493.09,952.22,169.13,Residencial,Petróleo,Forestal,5082.61,-1.61
+E0851,Rusia,1997,3635.86,958.62,56.75,Transporte,Gas Natural,Agrícola,841.2,-1.45
+E0852,China,2002,6553.46,725.11,141.58,Transporte,Carbón,Urbano,7540.1,0.8
+E0853,India,1995,7454.25,883.91,105.94,Energía,Renovables,Forestal,608.39,2.33
+E0854,Alemania,2021,326.73,919.08,69,Residencial,Renovables,Agrícola,2830.47,-4.37
+E0855,Alemania,2010,9593.78,512.04,13.22,Transporte,Gas Natural,Urbano,3955.75,0.93
+E0856,China,1996,3509.97,629.43,467.93,Industria,Carbón,Urbano,8160.37,4.53
+E0857,Alemania,2015,1978.81,419.34,460.6,Transporte,Renovables,Urbano,5487.17,-2.38
+E0858,Brasil,2004,8522.01,419.07,26.16,Industria,Petróleo,Urbano,412.24,4.09
+E0859,India,2012,7058.7,39.39,87.37,Agricultura,Carbón,Agrícola,6823.66,4.5
+E0860,China,2004,958.76,434.39,70.61,Industria,Gas Natural,Forestal,4584.65,-2.31
+E0861,India,2005,1258.74,673.82,141.33,Industria,Petróleo,Urbano,10148,2.54
+E0862,Estados Unidos,2021,7180.4,422.56,102.83,Energía,Carbón,Urbano,5545.23,-2.61
+E0863,India,2007,840.35,872.54,472.98,Transporte,Renovables,Forestal,7827.83,2.38
+E0864,India,2009,9180.04,333.23,43,Agricultura,Gas Natural,Urbano,2485.67,2.97
+E0865,Estados Unidos,1991,7441.25,133.55,106.62,Transporte,Gas Natural,Urbano,8394.61,-2.53
+E0866,China,2012,3421.37,811.75,41.28,Industria,Carbón,Forestal,7958.41,2.16
+E0867,India,2019,3693.09,674.27,490.21,Industria,Gas Natural,Forestal,9954.49,3.12
+E0868,Rusia,1992,5114.31,242.58,459.29,Transporte,Petróleo,Urbano,468.66,-1.41
+E0869,India,1990,3673.6,536.91,358.6,Agricultura,Carbón,Forestal,4977.76,-3.32
+E0870,China,2011,7856.34,402.45,213.56,Agricultura,Petróleo,Agrícola,7502.79,-4.08
+E0871,Alemania,2018,9749.9,938.92,95.9,Energía,Gas Natural,Agrícola,1137.29,0.75
+E0872,Estados Unidos,2003,5886.76,607.72,111.52,Industria,Gas Natural,Urbano,4575.58,4.78
+E0873,Alemania,2017,4515.77,159.23,222.08,Industria,Gas Natural,Urbano,10369.4,3.23
+E0874,China,2010,2305.46,502.65,384.34,Energía,Petróleo,Forestal,4851.69,-0.64
+E0875,Brasil,2021,6568.99,862.69,133.1,Transporte,Gas Natural,Forestal,10840.91,0.37
+E0876,Alemania,1995,6887.21,671.83,156.09,Industria,Carbón,Urbano,719.55,-2.2
+E0877,India,1990,6883.39,842.61,300.37,Transporte,Renovables,Urbano,7924.34,-3.37
+E0878,India,2010,367.15,251.15,119.63,Agricultura,Carbón,Agrícola,6433.08,-0.18
+E0879,Estados Unidos,1993,9001.31,888.46,292.53,Residencial,Renovables,Forestal,5555.88,-0.36
+E0880,India,1992,3447.25,755.86,194.18,Energía,Gas Natural,Urbano,10682.24,0.22
+E0881,Rusia,2019,7467.24,729.18,18.15,Industria,Carbón,Urbano,1513.19,4.53
+E0882,Rusia,2020,7622.09,347.19,201.95,Energía,Petróleo,Forestal,9866.39,1.04
+E0883,Alemania,2023,6540.49,887.77,459.84,Agricultura,Renovables,Forestal,7634.52,1.06
+E0884,China,2008,4009.18,638.34,147.26,Agricultura,Petróleo,Urbano,2923.06,-3.72
+E0885,Estados Unidos,2009,6123,851.99,162.09,Agricultura,Renovables,Urbano,9928.19,4.96
+E0886,Brasil,2012,497.97,361.61,33.9,Agricultura,Gas Natural,Urbano,4779.31,2.73
+E0887,Alemania,2014,7642.77,146.51,307.91,Residencial,Carbón,Forestal,8975.08,3.77
+E0888,China,2004,1085.93,333,424.77,Transporte,Renovables,Urbano,4338.32,-0.86
+E0889,Estados Unidos,2012,4027.83,455.81,177.11,Transporte,Carbón,Urbano,9375.15,0.02
+E0890,Estados Unidos,1991,1125.83,533.87,120.88,Residencial,Renovables,Urbano,7039.26,0.22
+E0891,Alemania,2004,8387.04,511.3,478.35,Transporte,Renovables,Agrícola,1637.41,-3.06
+E0892,China,1999,5547.99,546.51,372.79,Agricultura,Gas Natural,Agrícola,7181.33,1.89
+E0893,China,2003,6940.46,841.86,284.01,Transporte,Renovables,Forestal,2185.66,4.03
+E0894,India,2016,6857.56,170.93,153.46,Energía,Petróleo,Urbano,4589.96,-3.36
+E0895,Brasil,2003,8431.9,316.74,111.18,Transporte,Renovables,Urbano,1956.22,-4.14
+E0896,Rusia,2022,1412.44,888.72,358.16,Energía,Renovables,Forestal,339.98,2.38
+E0897,India,1990,6631.31,560.9,261.37,Industria,Renovables,Forestal,2409.56,-2.27
+E0898,Estados Unidos,2023,5793.83,583.81,260.78,Energía,Gas Natural,Forestal,5946.46,1.24
+E0899,Brasil,2008,405.88,478.58,37.78,Energía,Carbón,Urbano,5349.01,1.96
+E0900,Brasil,2013,2094.09,549.43,256.59,Agricultura,Carbón,Agrícola,5566.32,-1.78
+E0901,China,1993,2748.96,198.88,411.55,Agricultura,Gas Natural,Forestal,2799.79,3.15
+E0902,Brasil,2002,818.31,547.32,473.45,Agricultura,Petróleo,Urbano,7568.26,0.5
+E0903,Alemania,2021,3611.73,997.18,54.23,Energía,Petróleo,Forestal,7776.47,3.69
+E0904,Brasil,1998,369.3,566.48,315.95,Residencial,Gas Natural,Urbano,4001.85,2.63
+E0905,Estados Unidos,2005,5576.52,45.36,284.61,Agricultura,Carbón,Forestal,9704.75,3.69
+E0906,Alemania,1992,2193.86,796.64,445.27,Agricultura,Petróleo,Urbano,7119.85,-4.8
+E0907,Alemania,2009,2941.33,397.08,375.87,Energía,Gas Natural,Forestal,7872.13,-2.56
+E0908,India,1999,9113.67,154.52,482.67,Industria,Carbón,Agrícola,3123.01,-4.1
+E0909,Brasil,2011,5077.89,862.66,480.06,Industria,Petróleo,Forestal,106.67,-0.58
+E0910,China,1992,2763.24,198.78,113.62,Transporte,Petróleo,Forestal,9532.59,3.9
+E0911,India,2000,6024.77,920.85,362.95,Industria,Gas Natural,Agrícola,9064.43,-0.32
+E0912,China,2014,2096.55,442.35,265.73,Agricultura,Carbón,Forestal,1442.79,3.5
+E0913,Brasil,1997,836.52,743.05,108.09,Residencial,Petróleo,Agrícola,4177.75,-1.73
+E0914,India,1998,306.97,547.45,98.24,Transporte,Gas Natural,Urbano,7308.6,-1.6
+E0915,Brasil,2004,9520.14,257.37,41.46,Residencial,Petróleo,Agrícola,7208.01,3.96
+E0916,Estados Unidos,2021,7273.65,671.42,397.98,Residencial,Carbón,Agrícola,9477.82,-0.74
+E0917,India,1992,8019.49,957.95,162.93,Agricultura,Renovables,Urbano,1628.92,2.9
+E0918,China,1993,9811.09,769.87,428.63,Energía,Petróleo,Agrícola,4786.34,-2.63
+E0919,Estados Unidos,2019,9323.12,604.41,304.55,Energía,Carbón,Agrícola,1159.75,4.49
+E0920,Rusia,2002,7395.44,990.64,337.14,Energía,Petróleo,Urbano,4346.59,0.75
+E0921,China,2010,6970.47,266.06,146.55,Industria,Renovables,Forestal,264.67,2.59
+E0922,Brasil,2008,3434.81,63.28,229.19,Energía,Renovables,Forestal,9891.18,-4.1
+E0923,China,2011,1129.77,33.1,206.75,Agricultura,Petróleo,Agrícola,5844.78,-0.07
+E0924,Rusia,2009,5779.85,710.98,118.61,Industria,Gas Natural,Forestal,9362.84,4.01
+E0925,China,2020,5804.91,830.4,416.42,Energía,Petróleo,Forestal,752.96,3.77
+E0926,Estados Unidos,1999,9527.15,635.47,311.42,Residencial,Carbón,Agrícola,2579.29,-4.53
+E0927,Alemania,2007,4481.45,905.12,19.68,Agricultura,Gas Natural,Urbano,2927.24,-1.96
+E0928,China,2009,6939,698.28,410.14,Agricultura,Carbón,Forestal,4314.94,-0.57
+E0929,India,2007,5792.21,371.58,53.91,Transporte,Carbón,Agrícola,8851.24,-3.28
+E0930,Rusia,2000,1849.93,182.08,202.44,Agricultura,Gas Natural,Urbano,4313.48,2.3
+E0931,China,2011,5961.44,924.72,286.06,Residencial,Renovables,Forestal,2330.72,-3.15
+E0932,Rusia,2007,5447.16,104.49,4.82,Agricultura,Carbón,Urbano,808.39,-1.53
+E0933,Alemania,2023,4989.67,543.45,326.8,Transporte,Petróleo,Agrícola,966.46,1.63
+E0934,Estados Unidos,2012,5182.89,314.69,330.19,Agricultura,Renovables,Urbano,8384.51,-0.18
+E0935,India,1990,1723.48,272.14,326.61,Agricultura,Renovables,Urbano,4948.35,2.39
+E0936,Brasil,1999,4688.43,646.19,82.57,Transporte,Gas Natural,Agrícola,8015.37,4.61
+E0937,China,1990,6095.97,232.01,128.61,Agricultura,Petróleo,Forestal,7536.93,-3.83
+E0938,Estados Unidos,1998,4945.55,916.45,124.44,Industria,Petróleo,Forestal,1575.45,2.1
+E0939,Rusia,2020,4937.99,406.64,480.07,Agricultura,Renovables,Urbano,1657.48,-2.7
+E0940,Alemania,1996,867.43,677.7,34.7,Energía,Carbón,Urbano,8333.23,-0.86
+E0941,Rusia,2006,1988.66,728.03,214.95,Energía,Carbón,Urbano,7961.82,-4.67
+E0942,Alemania,2007,3277.63,683.26,435.76,Industria,Petróleo,Urbano,4220.54,-3.64
+E0943,Alemania,2022,4251.54,903.5,384.96,Agricultura,Renovables,Forestal,943.9,-1.8
+E0944,Estados Unidos,1993,5979.98,231.9,411.4,Residencial,Renovables,Agrícola,231.87,-1.58
+E0945,China,2012,8647.12,86.97,486.17,Agricultura,Renovables,Agrícola,3240.91,4
+E0946,Brasil,2000,1675.73,56.41,194.24,Energía,Gas Natural,Agrícola,200.52,2.42
+E0947,China,1998,249.37,877.97,155.52,Transporte,Petróleo,Urbano,2607.79,4.72
+E0948,India,2019,4547.45,973.31,16.3,Industria,Petróleo,Urbano,4672.56,0.99
+E0949,China,1997,4377.82,303.22,75.86,Transporte,Carbón,Agrícola,1423.43,-2.58
+E0950,Alemania,1994,5563.82,693.82,281.45,Residencial,Carbón,Forestal,1236.63,-1.72
+E0951,Alemania,2001,8348.9,9.9,79.67,Agricultura,Petróleo,Agrícola,9871.17,-1.8
+E0952,India,1990,8043.37,189.44,368.42,Residencial,Petróleo,Forestal,6481.62,-1.74
+E0953,Rusia,2004,1090.43,689.59,19.58,Transporte,Carbón,Urbano,10285.57,1.73
+E0954,Alemania,2014,9346.55,66.82,130.48,Agricultura,Petróleo,Agrícola,3869.51,0.31
+E0955,India,2007,1193.1,469.04,348.03,Residencial,Carbón,Agrícola,7480.88,-1.15
+E0956,Alemania,2015,6382.25,662.92,128.5,Energía,Petróleo,Urbano,2331.14,-3.51
+E0957,Brasil,1992,6756.82,766.19,364.65,Energía,Gas Natural,Forestal,6839.91,-4.78
+E0958,Alemania,2011,6830.79,454.36,497.94,Industria,Gas Natural,Agrícola,1512.48,-2.81
+E0959,Estados Unidos,2015,2726.98,630.65,398.74,Energía,Renovables,Agrícola,122.68,-3.93
+E0960,India,2008,3370.42,540.04,171.58,Energía,Petróleo,Forestal,10253.7,2.85
+E0961,China,2010,5531.9,53.25,450.4,Transporte,Carbón,Agrícola,6148.35,-3.88
+E0962,India,2015,2075.92,743.06,26.54,Energía,Petróleo,Agrícola,10203.65,2.24
+E0963,Rusia,2002,301.07,173.19,362.78,Energía,Petróleo,Urbano,3738.76,-1.14
+E0964,Alemania,2013,5665.23,32.77,12.64,Transporte,Renovables,Forestal,3672.87,-4.27
+E0965,India,2015,4706.26,451.72,88.1,Energía,Carbón,Agrícola,4467.14,3.13
+E0966,Brasil,2010,6601.64,865.77,493.81,Energía,Petróleo,Agrícola,7795.85,0.8
+E0967,India,2007,1552.34,151.68,181.08,Industria,Carbón,Urbano,6267.31,-2.64
+E0968,Brasil,2004,8425.16,13.84,410.43,Energía,Petróleo,Agrícola,10186.37,3.95
+E0969,Alemania,2004,1547.59,110.87,188.67,Energía,Renovables,Urbano,377.31,-4.55
+E0970,China,1995,8924.3,364.3,420.17,Industria,Carbón,Agrícola,7819.34,-2.98
+E0971,Alemania,2020,4550.26,580.59,482.75,Transporte,Petróleo,Urbano,3700.57,2.52
+E0972,Rusia,2017,5543.07,193.82,218.33,Energía,Gas Natural,Forestal,2064.55,2.09
+E0973,Estados Unidos,1997,8976.16,802.16,280.12,Residencial,Carbón,Forestal,5663.31,-2.11
+E0974,China,2018,3069.14,753.54,314.69,Transporte,Renovables,Agrícola,5605.2,-4.38
+E0975,China,2010,1900.09,696.17,467.48,Transporte,Gas Natural,Agrícola,1593.42,3.58
+E0976,Estados Unidos,2006,4512.94,487.98,129.12,Energía,Carbón,Urbano,2300.67,-1.86
+E0977,India,2013,2519.24,365.85,306.01,Industria,Carbón,Urbano,4548.99,-3.04
+E0978,Alemania,2020,5325.65,376.21,163.04,Transporte,Carbón,Forestal,4556.04,0.16
+E0979,India,2023,2825.05,503.57,109.25,Industria,Carbón,Agrícola,3561.38,4.1
+E0980,India,1991,8658.45,78.24,43.38,Residencial,Petróleo,Urbano,1719.14,-4.56
+E0981,Alemania,1992,6112.51,682.62,310.73,Industria,Petróleo,Forestal,147.67,2.66
+E0982,Rusia,2019,102.38,352.16,441.16,Agricultura,Carbón,Forestal,10675.56,0.72
+E0983,China,1997,8074.19,225.53,176.35,Industria,Renovables,Urbano,10384.14,-0.75
+E0984,Brasil,1996,3369.1,279.05,276.78,Transporte,Petróleo,Agrícola,5371.79,2.44
+E0985,Estados Unidos,2001,3270.06,181.11,321.42,Industria,Carbón,Forestal,10946.06,4.66
+E0986,China,2008,3892.32,901.67,207.91,Industria,Carbón,Urbano,7442.83,-2.71
+E0987,India,2015,6339.6,169.87,451.77,Agricultura,Renovables,Forestal,850.55,-3.56
+E0988,Estados Unidos,2017,4476.4,883.04,182.01,Agricultura,Renovables,Agrícola,1383.13,4.13
+E0989,Brasil,2004,6323.49,572.67,63.38,Energía,Renovables,Urbano,10085.61,1.69
+E0990,China,2003,1553.13,867.58,72.87,Transporte,Gas Natural,Agrícola,6967.57,-0.62
+E0991,China,2003,9704.63,474.59,445.54,Energía,Carbón,Agrícola,9290.7,0.73
+E0992,Rusia,1992,7323.1,927.71,494.02,Agricultura,Renovables,Forestal,9891.14,2.46
+E0993,China,2018,2577.05,212.28,145.18,Industria,Carbón,Agrícola,4982.57,2.73
+E0994,China,1995,7269.28,555.14,72.66,Agricultura,Petróleo,Forestal,628.93,4.2
+E0995,Brasil,2012,5792.75,126.71,241.62,Residencial,Carbón,Urbano,2152.26,-0.73
+E0996,Brasil,2017,1180.97,447.77,355.05,Industria,Carbón,Urbano,825.63,-2.07
+E0997,Estados Unidos,2003,1864.14,570.33,306.59,Energía,Gas Natural,Forestal,2157.26,1.4
+E0998,India,2003,508.95,606.07,475.6,Industria,Petróleo,Forestal,4574.81,-0.84
+E0999,Brasil,2009,8111.46,366.16,409.07,Residencial,Petróleo,Forestal,1388.35,0.95
+E1000,Estados Unidos,2002,5561.88,77.26,434.62,Agricultura,Gas Natural,Agrícola,1917.39,-0.8
